@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.2.16.1:1", "", "Deniz Bölgesi", "EARoot/EA2/EA16/EA1/EA1973.htm", "175.png", "120", "0", "", "Logical diagram0","{782D861D-CBB0-4565-ABF5-20F9CE89E4DB}");
+tocTab[tocTab.length] = new Array("0.2.16.1:2", "", "Kod ve Deger Listeleri", "EARoot/EA2/EA16/EA1/EA1975.htm", "175.png", "121", "0", "", "Logical diagram0","{8B9598AF-7087-4fb7-892B-D74D196858CC}");
+tocTab[tocTab.length] = new Array("0.2.16.1:3", "", "«featureType» DenizBolgesiSiniri", "EARoot/EA2/EA16/EA1/EA1978.htm", "5.png", "E863", "0", "", "Class0","{CC2E6279-7F36-45ae-B109-F655F13C0E4B}");
+tocTab[tocTab.length] = new Array("0.2.16.1:4", "", "«featureType» DenizIdariBolgesi", "EARoot/EA2/EA16/EA1/EA1979.htm", "5.png", "E861", "0", "", "Class0","{4C2D4827-0675-47aa-8BAF-216F98B57A82}");
+tocTab[tocTab.length] = new Array("0.2.16.1:5", "", "«codeList» DenizIdariBolgesiTipi", "EARoot/EA2/EA16/EA1/EA1980.htm", "5.png", "E859", "0", "", "Class0","{1B8768F7-B823-439a-81AF-8A9B6304F8CA}");
+tocTab[tocTab.length] = new Array("0.2.16.1:6", "", "«featureType» EsasHat", "EARoot/EA2/EA16/EA1/EA1981.htm", "5.png", "E862", "0", "", "Class0","{ACF95957-FD8E-4e54-8B57-CA729A1E819D}");
+tocTab[tocTab.length] = new Array("0.2.16.1:7", "", "«dataType» EsasHatParcasi", "EARoot/EA2/EA16/EA1/EA1982.htm", "5.png", "E860", "0", "", "Class0","{47CFC1BC-098F-4d80-A3F2-B569C6682D0A}");
+tocTab[tocTab.length] = new Array("0.2.16.1:8", "", "«codeList» EsasHatParcasiTipi", "EARoot/EA2/EA16/EA1/EA1983.htm", "5.png", "E858", "0", "", "Class0","{150AFDF0-ADE3-46fc-9F84-C0D8C3648D50}");

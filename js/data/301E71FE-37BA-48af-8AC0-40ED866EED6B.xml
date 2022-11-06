@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.2.24.1:1", "", "KodListeleri", "EARoot/EA2/EA24/EA1/EA2646.htm", "175.png", "163", "0", "", "Logical diagram0","{9230CA9C-90B2-4e64-9722-D6168CE7527D}");
+tocTab[tocTab.length] = new Array("0.2.24.1:2", "", "NufusDagilimi", "EARoot/EA2/EA24/EA1/EA2648.htm", "175.png", "161", "0", "", "Logical diagram0","{6AB45F8C-C7D6-406a-AEED-76DD0DDA898D}");
+tocTab[tocTab.length] = new Array("0.2.24.1:3", "", "«codeList» BesYillikYasDegeri", "EARoot/EA2/EA24/EA1/EA2656.htm", "5.png", "E1110", "0", "", "Class0","{95C00E6E-289A-4909-BE82-A75BCF869E2B}");
+tocTab[tocTab.length] = new Array("0.2.24.1:4", "", "«dataType» Boyutlar", "EARoot/EA2/EA24/EA1/EA2657.htm", "5.png", "E1102", "0", "", "Class0","{366360E2-7A7B-4e36-966E-5998B2ED0CA7}");
+tocTab[tocTab.length] = new Array("0.2.24.1:5", "", "«codeList» degiskenDegeri", "EARoot/EA2/EA24/EA1/EA2658.htm", "5.png", "E1108", "0", "", "Class0","{7C1E1F9F-F64D-434b-9741-08A50FB92C48}");
+tocTab[tocTab.length] = new Array("0.2.24.1:6", "", "«featureType» IstatistikiDagilim", "EARoot/EA2/EA24/EA1/EA2662.htm", "5.png", "E1117", "0", "", "Class0","{C4C44EDF-7070-4366-BA76-19506DB7C1CC}");
+tocTab[tocTab.length] = new Array("0.2.24.1:7", "", "«dataType» IstatistikiDeger", "EARoot/EA2/EA24/EA1/EA2663.htm", "5.png", "E1106", "0", "", "Class0","{7423AC31-C591-4afa-9A58-5CAE4E8750F6}");
+tocTab[tocTab.length] = new Array("0.2.24.1:8", "", "«codeList» istatistikiOlcumYontemiDegeri", "EARoot/EA2/EA24/EA1/EA2664.htm", "5.png", "E1096", "0", "", "Class0","{0FC7F639-0C0D-4a02-9139-46FE7A27966C}");
+tocTab[tocTab.length] = new Array("0.2.24.1:9", "", "«codeList» IstatistikiVeriDurumDegeri", "EARoot/EA2/EA24/EA1/EA2665.htm", "5.png", "E1109", "0", "", "Class0","{83C39EC5-CFA3-4ed9-B9B4-3BE83209265D}");
+tocTab[tocTab.length] = new Array("0.2.24.1:10", "", "«codeList» naceRev2Kod", "EARoot/EA2/EA24/EA1/EA2666.htm", "5.png", "E1095", "0", "", "Class0","{0E4F5AE1-D868-4a22-B3B0-94D67E32E7A4}");
+tocTab[tocTab.length] = new Array("0.2.24.1:11", "", "«codeList» ozelDeger", "EARoot/EA2/EA24/EA1/EA2667.htm", "5.png", "E1098", "0", "", "Class0","{1FACAF2F-3E8F-4065-8385-2F65B657FCE3}");
+tocTab[tocTab.length] = new Array("0.2.24.1:12", "", "«dataType» Siniflandirma", "EARoot/EA2/EA24/EA1/EA2669.htm", "5.png", "E1101", "0", "", "Class0","{348C7485-87FD-4f8d-9B71-19FA467AF48A}");
+tocTab[tocTab.length] = new Array("0.2.24.1:13", "", "«dataType» SiniflandirmaOgesi", "EARoot/EA2/EA24/EA1/EA2671.htm", "5.png", "E1114", "0", "", "Class0","{AFC32619-8B19-4590-BE29-27B8C33C2CA9}");
+tocTab[tocTab.length] = new Array("0.2.24.1:14", "", "«codeList» siniflandirmaOgeTipiDegeri", "EARoot/EA2/EA24/EA1/EA2672.htm", "5.png", "E1120", "0", "", "Class0","{E8D368B1-5EA8-4b60-AB8A-A6A17E29B202}");
+tocTab[tocTab.length] = new Array("0.2.24.1:15", "", "«codeList» siniflandirmaTipiDegeri", "EARoot/EA2/EA24/EA1/EA2673.htm", "5.png", "E1118", "0", "", "Class0","{D3811553-B82A-4bcb-8A62-3ADA3DE60B59}");
+tocTab[tocTab.length] = new Array("0.2.24.1:16", "", "«codeList» yasGrubuDegeri", "EARoot/EA2/EA24/EA1/EA2674.htm", "5.png", "E1104", "0", "", "Class0","{6773FD38-F9AC-495d-ABCD-BA7A1B5336A8}");
+tocTab[tocTab.length] = new Array("0.2.24.1:17", "", "«codeList» yillikYasDegeri", "EARoot/EA2/EA24/EA1/EA2675.htm", "5.png", "E1100", "0", "", "Class0","{23AF11F3-09DB-43e9-AAC4-C4FBDD24867E}");

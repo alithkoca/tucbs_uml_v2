@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.2.13.2:1", "", "EnerjiKaynaklariVektor: Genel", "EARoot/EA2/EA13/EA2/EA1806.htm", "175.png", "104", "0", "", "Logical diagram0","{0AEA5BE6-F3BF-45d4-9475-CF7C1355ABE1}");
+tocTab[tocTab.length] = new Array("0.2.13.2:2", "", "EnerjiKaynaklariVektor: Veri Tipleri ve Kod Listeleri", "EARoot/EA2/EA13/EA2/EA1808.htm", "175.png", "105", "0", "", "Logical diagram0","{092C88EA-170E-4ea7-869E-A755BAA08A4E}");
+tocTab[tocTab.length] = new Array("0.2.13.2:3", "", "«featureType» EnerjiHamMaddeleri", "EARoot/EA2/EA13/EA2/EA1811.htm", "5.png", "E770", "0", "", "Class0","{F4941FFE-7F29-401f-A281-24E17A0A32D6}");
+tocTab[tocTab.length] = new Array("0.2.13.2:4", "", "«featureType» FosilYakitKaynagi", "EARoot/EA2/EA13/EA2/EA1812.htm", "5.png", "E768", "0", "", "Class0","{C453375A-A7D2-48f6-AF12-69AC5C4FB580}");
+tocTab[tocTab.length] = new Array("0.2.13.2:5", "", "«dataType» FosilYakitKaynakTipi", "EARoot/EA2/EA13/EA2/EA1813.htm", "5.png", "E765", "0", "", "Class0","{A7C78246-1843-4f97-9B66-18AFD52412D6}");
+tocTab[tocTab.length] = new Array("0.2.13.2:6", "", "«dataType» FosilYakitRezervi", "EARoot/EA2/EA13/EA2/EA1814.htm", "5.png", "E769", "0", "", "Class0","{F1DBA3DB-C67F-43ed-AF20-D710B43A5F6B}");
+tocTab[tocTab.length] = new Array("0.2.13.2:7", "", "«dataType» IsilAralikTipi", "EARoot/EA2/EA13/EA2/EA1815.htm", "5.png", "E767", "0", "", "Class0","{BF631EF3-34AA-426a-B7EA-9D5835E52DA6}");
+tocTab[tocTab.length] = new Array("0.2.13.2:8", "", "«union» IsilDegerTipi", "EARoot/EA2/EA13/EA2/EA1816.htm", "5.png", "E764", "0", "", "Class0","{940666E2-63B7-44d5-8CC4-E9A47221D8E9}");
+tocTab[tocTab.length] = new Array("0.2.13.2:9", "", "«dataType» IsletmeSureciTipi", "EARoot/EA2/EA13/EA2/EA1817.htm", "5.png", "E763", "0", "", "Class0","{7D696D04-C168-42a9-B88B-F8A5257A54C5}");
+tocTab[tocTab.length] = new Array("0.2.13.2:10", "", "«featureType» YenilenebilirVeAtikKaynaklari", "EARoot/EA2/EA13/EA2/EA1818.htm", "5.png", "E766", "0", "", "Class0","{BCD98FA5-82C2-41cf-8B97-DC23F9FF2184}");

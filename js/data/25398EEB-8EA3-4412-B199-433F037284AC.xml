@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.2.13.1:1", "", "EnerjiKaynaklariTemel: Genel", "EARoot/EA2/EA13/EA1/EA1795.htm", "175.png", "103", "0", "", "Logical diagram0","{5EC6F989-547A-4cb9-9A78-152FD177775E}");
+tocTab[tocTab.length] = new Array("0.2.13.1:2", "", "«codeList» DuseyReferansDegeri", "EARoot/EA2/EA13/EA1/EA1798.htm", "5.png", "E754", "0", "", "Class0","{12FCD71C-BF0F-47f8-80E1-15C013CE5474}");
+tocTab[tocTab.length] = new Array("0.2.13.1:3", "", "«codeList» FosilYakitDegeri", "EARoot/EA2/EA13/EA1/EA1799.htm", "5.png", "E759", "0", "", "Class0","{A80367C5-E5B7-4264-9A3E-C222FF9CB66F}");
+tocTab[tocTab.length] = new Array("0.2.13.1:4", "", "«codeList» FosilYakitSinifDegeri", "EARoot/EA2/EA13/EA1/EA1800.htm", "5.png", "E760", "0", "", "Class0","{E7FD6A41-AFCD-43c8-9FDC-5026F60D5908}");
+tocTab[tocTab.length] = new Array("0.2.13.1:5", "", "«dataType» OlcumYuksekligiAraligiTuru", "EARoot/EA2/EA13/EA1/EA1801.htm", "5.png", "E753", "0", "", "Class0","{016AF3FD-DC43-4552-BFF8-C505B52382E9}");
+tocTab[tocTab.length] = new Array("0.2.13.1:6", "", "«union» OlcumYuksekligiDegeri", "EARoot/EA2/EA13/EA1/EA1802.htm", "5.png", "E758", "0", "", "Class0","{672DDDAD-A19C-4fba-8262-EE2134530C31}");
+tocTab[tocTab.length] = new Array("0.2.13.1:7", "", "«dataType» OlcumYuksekligiTuru", "EARoot/EA2/EA13/EA1/EA1803.htm", "5.png", "E757", "0", "", "Class0","{610EEC7F-6241-4180-A304-E3E53A92DA6A}");
+tocTab[tocTab.length] = new Array("0.2.13.1:8", "", "«codeList» SiniflandirmaVeOlcumCerceveDegeri", "EARoot/EA2/EA13/EA1/EA1804.htm", "5.png", "E755", "0", "", "Class0","{2A1171E7-27F6-4793-ADAC-629F7AB40DF2}");
+tocTab[tocTab.length] = new Array("0.2.13.1:9", "", "«codeList» YenilenebilirVeAtikKaynakTipi", "EARoot/EA2/EA13/EA1/EA1805.htm", "5.png", "E756", "0", "", "Class0","{2F1F8774-3E01-4a0f-B6DE-62F74DADB343}");

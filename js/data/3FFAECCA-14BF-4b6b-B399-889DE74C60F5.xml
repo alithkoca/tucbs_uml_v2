@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.1.5.1:1", "", "GozlemdenKaynaga", "EARoot/EA1/EA1/EA5/EA1/EA96.htm", "175.png", "380", "0", "", "Logical diagram0","{732A1BA9-A925-4121-82B2-55204BC5C443}");
+tocTab[tocTab.length] = new Array("0.1.1.5.1:2", "", "GozlemKaynagi", "EARoot/EA1/EA1/EA5/EA1/EA98.htm", "175.png", "378", "0", "", "Logical diagram0","{5E102622-AA0E-4dc0-80B5-3811EB598CFE}");
+tocTab[tocTab.length] = new Array("0.1.1.5.1:3", "", "KaynaktanGozleme", "EARoot/EA1/EA1/EA5/EA1/EA100.htm", "175.png", "379", "0", "", "Logical diagram0","{A4836B19-6544-4526-B62F-F7B7D872134F}");
+tocTab[tocTab.length] = new Array("0.1.1.5.1:4", "", "«featureType» GozlemSeti", "EARoot/EA1/EA1/EA5/EA1/EA103.htm", "5.png", "E4708", "0", "", "Class0","{9A0F29A4-2B2E-44d4-A3A3-060A3C3D54C4}");

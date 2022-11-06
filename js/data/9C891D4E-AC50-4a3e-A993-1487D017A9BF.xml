@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.3.2.7.9:1", "", "Context Diagram: LineString", "EARoot/EA3/EA2/EA7/EA9/EA6073.htm", "175.png", "742", "0", "", "Logical diagram0","{D624EC5D-825B-4361-9FBB-FA3DB9F0F7BC}");
+tocTab[tocTab.length] = new Array("0.3.2.7.9:2", "", "Figure D.46 ? GM_Curve with a single GM_LineString segment", "EARoot/EA3/EA2/EA7/EA9/EA6075.htm", "175.png", "741", "0", "", "Logical diagram0","{E005AAF5-2788-49b6-8046-DCFB2439005B}");
+tocTab[tocTab.length] = new Array("0.3.2.7.9:3", "", "«type» LineString", "EARoot/EA3/EA2/EA7/EA9/EA6079.htm", "5.png", "E2403", "0", "", "Class0","{2FB04942-9855-4a60-B9DD-4696244B8850}");

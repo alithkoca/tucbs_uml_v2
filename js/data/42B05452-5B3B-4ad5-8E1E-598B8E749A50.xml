@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.3.4.8:1", "", "PhysicalProperties package dependencies", "EARoot/EA3/EA4/EA8/EA7671.htm", "176.png", "365", "0", "", "Package diagram0","{2BD21F55-CDE5-4384-B0C4-75E8D12DA27C}");
+tocTab[tocTab.length] = new Array("0.3.4.8:2", "", "Context Diagram : PhysicalDescription", "EARoot/EA3/EA4/EA8/EA7673.htm", "175.png", "366", "0", "", "Class diagram0","{75E9C227-73CE-4554-A344-B5AEE8958B91}");
+tocTab[tocTab.length] = new Array("0.3.4.8:3", "", "Context Diagram : PhysicalPropertyValue", "EARoot/EA3/EA4/EA8/EA7675.htm", "175.png", "367", "0", "", "Logical diagram0","{99C038B3-29AF-416f-9C29-49D7892159F1}");
+tocTab[tocTab.length] = new Array("0.3.4.8:4", "", "Summary diagram: PhysicalProperties", "EARoot/EA3/EA4/EA8/EA7677.htm", "175.png", "364", "0", "", "Logical diagram0","{E535DC86-97F9-4ab3-8D6F-76A553CFBBFA}");
+tocTab[tocTab.length] = new Array("0.3.4.8:5", "", "«DataType» PhysicalDescription", "EARoot/EA3/EA4/EA8/EA7687.htm", "5.png", "E1737", "0", "", "Class0","{1B4B0191-25C8-4f61-A7FF-1E3B249DC3B8}");
+tocTab[tocTab.length] = new Array("0.3.4.8:6", "", "«CodeList» PhysicalPropertyTerm", "EARoot/EA3/EA4/EA8/EA7688.htm", "5.png", "E1740", "0", "", "Class0","{937F571D-6E42-4cb0-859D-08D3A0C33544}");
+tocTab[tocTab.length] = new Array("0.3.4.8:7", "", "«Union» PhysicalPropertyValue", "EARoot/EA3/EA4/EA8/EA7689.htm", "5.png", "E1743", "0", "", "Class0","{D856892F-60E9-43a3-918E-7199D9C357E8}");

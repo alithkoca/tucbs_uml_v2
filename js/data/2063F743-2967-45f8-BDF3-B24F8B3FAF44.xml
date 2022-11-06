@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.3.1.17:1", "", "WaterBody", "EARoot/EA3/EA1/EA17/EA3886.htm", "175.png", "2849", "0", "", "Logical diagram0","{70F91EDD-928C-426b-BF38-EA14E3733B06}");
+tocTab[tocTab.length] = new Array("0.3.1.17:2", "", "WaterBody - ADE Data types", "EARoot/EA3/EA1/EA17/EA3888.htm", "175.png", "2851", "0", "", "Logical diagram0","{F6053EB7-218C-4c4d-937F-19F312338416}");
+tocTab[tocTab.length] = new Array("0.3.1.17:3", "", "WaterBody - Code lists", "EARoot/EA3/EA1/EA17/EA3890.htm", "175.png", "2850", "0", "", "Logical diagram0","{8CD0425D-5A91-4c75-8D2F-4B80AE378738}");
+tocTab[tocTab.length] = new Array("0.3.1.17:4", "", "«featureType» AbstractWaterBoundarySurface", "EARoot/EA3/EA1/EA17/EA3893.htm", "5.png", "E18207", "0", "", "Class0","{B8E05F53-7FC5-4be7-A956-291E5C31430C}");
+tocTab[tocTab.length] = new Array("0.3.1.17:5", "", "«dataType» ADEOfAbstractWaterBoundarySurface", "EARoot/EA3/EA1/EA17/EA3894.htm", "5.png", "E18198", "0", "", "Class0","{01EE09F3-26AD-49f2-9220-781BE88F2815}");
+tocTab[tocTab.length] = new Array("0.3.1.17:6", "", "«dataType» ADEOfWaterBody", "EARoot/EA3/EA1/EA17/EA3895.htm", "5.png", "E18209", "0", "", "Class0","{FDE7C63E-6CDC-41dc-83E6-985ABF7BE408}");
+tocTab[tocTab.length] = new Array("0.3.1.17:7", "", "«dataType» ADEOfWaterGroundSurface", "EARoot/EA3/EA1/EA17/EA3896.htm", "5.png", "E18199", "0", "", "Class0","{15D0E739-0BF6-40ba-8196-AD78118C2AD0}");
+tocTab[tocTab.length] = new Array("0.3.1.17:8", "", "«dataType» ADEOfWaterSurface", "EARoot/EA3/EA1/EA17/EA3897.htm", "5.png", "E18201", "0", "", "Class0","{662B3203-02DA-4fc3-9443-7378E5621C49}");
+tocTab[tocTab.length] = new Array("0.3.1.17:9", "", "«featureType» WaterBody", "EARoot/EA3/EA1/EA17/EA3898.htm", "5.png", "E18200", "0", "", "Class0","{460FF050-D8EC-46d9-B524-977BB6338EB2}");
+tocTab[tocTab.length] = new Array("0.3.1.17:10", "", "«codeList» WaterBodyClassValue", "EARoot/EA3/EA1/EA17/EA3899.htm", "5.png", "E18203", "0", "", "Class0","{7053BF42-E6E5-4859-BE99-3E99406E9EFA}");
+tocTab[tocTab.length] = new Array("0.3.1.17:11", "", "«codeList» WaterBodyFunctionValue", "EARoot/EA3/EA1/EA17/EA3900.htm", "5.png", "E18206", "0", "", "Class0","{AC444F91-AE79-4b80-B6DF-7405C2D88FE0}");
+tocTab[tocTab.length] = new Array("0.3.1.17:12", "", "«codeList» WaterBodyUsageValue", "EARoot/EA3/EA1/EA17/EA3901.htm", "5.png", "E18208", "0", "", "Class0","{E96B9D36-B37A-4520-8DA0-8DF3A7BBE03B}");
+tocTab[tocTab.length] = new Array("0.3.1.17:13", "", "«featureType» WaterGroundSurface", "EARoot/EA3/EA1/EA17/EA3902.htm", "5.png", "E18202", "0", "", "Class0","{6ACCF316-1082-4381-977A-E26FF9C1801C}");
+tocTab[tocTab.length] = new Array("0.3.1.17:14", "", "«codeList» WaterLevelValue", "EARoot/EA3/EA1/EA17/EA3903.htm", "5.png", "E18205", "0", "", "Class0","{A4684004-2DCF-4165-AB10-2EFB0251317D}");
+tocTab[tocTab.length] = new Array("0.3.1.17:15", "", "«featureType» WaterSurface", "EARoot/EA3/EA1/EA17/EA3904.htm", "5.png", "E18204", "0", "", "Class0","{992775B9-82CC-4be5-95C3-4E517EADDB27}");

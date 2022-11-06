@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.1.5.2:1", "", "Islem", "EARoot/EA1/EA1/EA5/EA2/EA104.htm", "175.png", "381", "0", "", "Logical diagram0","{1AE024FD-928C-49dd-B9C5-FBC029B33FBB}");
+tocTab[tocTab.length] = new Array("0.1.1.5.2:2", "", "«featureType» Islem", "EARoot/EA1/EA1/EA5/EA2/EA107.htm", "5.png", "E1792", "0", "", "Class0","{471BF79F-3002-4c4c-8CB7-31BDAE5FD182}");
+tocTab[tocTab.length] = new Array("0.1.1.5.2:3", "", "«dataType» IslemParametresi", "EARoot/EA1/EA1/EA5/EA2/EA108.htm", "5.png", "E1791", "0", "", "Class0","{27985F17-BBB1-4f53-AF78-A51815EA7579}");
+tocTab[tocTab.length] = new Array("0.1.1.5.2:4", "", "«codeList» IslemParametresiAdDegeri", "EARoot/EA1/EA1/EA5/EA2/EA109.htm", "5.png", "E1793", "0", "", "Class0","{8910BCB7-2894-4233-8B51-9205E8B3B7BB}");

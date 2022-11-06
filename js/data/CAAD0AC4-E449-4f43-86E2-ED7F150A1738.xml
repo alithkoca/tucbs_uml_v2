@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.6:1", "", "Context Diagram: Boolean", "EARoot/EA3/EA2/EA2/EA1/EA3/EA6/EA4781.htm", "175.png", "1311", "0", "", "Logical diagram0","{93AC4C56-1CE8-4ef3-BF07-163495CDF849}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.6:2", "", "Context Diagram: ContinuousTruth", "EARoot/EA3/EA2/EA2/EA1/EA3/EA6/EA4783.htm", "175.png", "1312", "0", "", "Logical diagram0","{C26FBA86-8A47-40cd-9807-37CD662D9C2B}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.6:3", "", "Context Diagram: DiscreteTruth", "EARoot/EA3/EA2/EA2/EA1/EA3/EA6/EA4785.htm", "175.png", "1313", "0", "", "Logical diagram0","{920C18EC-C0DA-41c2-9267-248BBB42C163}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.6:4", "", "Context Diagram: Logical", "EARoot/EA3/EA2/EA2/EA1/EA3/EA6/EA4787.htm", "175.png", "1314", "0", "", "Logical diagram0","{11A265A9-01C1-4011-8C6C-6AEBD93FCF5E}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.6:5", "", "Context Diagram: Probablility", "EARoot/EA3/EA2/EA2/EA1/EA3/EA6/EA4789.htm", "175.png", "1316", "0", "", "Logical diagram0","{62F09DD9-1E0E-4d71-BCEB-48BDC630E410}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.6:6", "", "Context Diagram: Truth", "EARoot/EA3/EA2/EA2/EA1/EA3/EA6/EA4791.htm", "175.png", "1315", "0", "", "Logical diagram0","{4F5B7D8D-EFFC-43ee-857B-5DEB626E1FBA}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.6:7", "", "Truth", "EARoot/EA3/EA2/EA2/EA1/EA3/EA6/EA4793.htm", "175.png", "1310", "0", "", "Logical diagram0","{CD78BC6E-FD5E-434d-80EC-884373C58481}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.6:8", "", "«enumeration» Boolean", "EARoot/EA3/EA2/EA2/EA1/EA3/EA6/EA4796.htm", "5.png", "E3737", "0", "", "Class0","{961482C2-5B9A-4e9b-9600-D730F10515DC}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.6:9", "", "«type» ContinuousTruth", "EARoot/EA3/EA2/EA2/EA1/EA3/EA6/EA4797.htm", "5.png", "E3739", "0", "", "Class0","{EE687EF8-A3EE-4f2e-8DF1-2B92B0D54381}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.6:10", "", "«type» DiscreteTruth", "EARoot/EA3/EA2/EA2/EA1/EA3/EA6/EA4798.htm", "5.png", "E3738", "0", "", "Class0","{C4B23418-580A-4c65-8F95-4DD2F71ADB52}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.6:11", "", "«enumeration» Logical", "EARoot/EA3/EA2/EA2/EA1/EA3/EA6/EA4799.htm", "5.png", "E3736", "0", "", "Class0","{797B9B30-3104-4d2b-B833-51B0EA1A6749}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.6:12", "", "«type» Probability", "EARoot/EA3/EA2/EA2/EA1/EA3/EA6/EA4800.htm", "5.png", "E3735", "0", "", "Class0","{65AFDB88-1970-494e-8D0B-6766FFF3BC55}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.6:13", "", "«type» Truth", "EARoot/EA3/EA2/EA2/EA1/EA3/EA6/EA4801.htm", "5.png", "E3734", "0", "", "Class0","{151AC419-1E29-4f31-A0E7-FBF8DD91ACDE}");

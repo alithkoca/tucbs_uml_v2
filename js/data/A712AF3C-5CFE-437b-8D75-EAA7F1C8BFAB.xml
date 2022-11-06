@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.3.3.1:1", "", "External Dependencies", "EARoot/EA3/EA3/EA1/EA7084.htm", "176.png", "341", "0", "", "Package diagram0","{CCA1D26E-2826-4ea4-A4EC-BD8F63D57A2D}");
+tocTab[tocTab.length] = new Array("0.3.3.1:2", "", "Package Dependencies", "EARoot/EA3/EA3/EA1/EA7086.htm", "176.png", "340", "0", "", "Package diagram0","{3F3DD5FB-A8F3-4325-8473-B825F53FD004}");
+tocTab[tocTab.length] = new Array("0.3.3.1.1", "1", "«leaf» Advanced Encodings", "EARoot/EA3/EA3/EA1/EA1/EA7098.htm", "4.png", "", "", "{74AB62A3-3825-48e1-92FF-2D297DA7D202}", "Package");
+tocTab[tocTab.length] = new Array("0.3.3.1.2", "1", "«leaf» Basic Types", "EARoot/EA3/EA3/EA1/EA2/EA7111.htm", "4.png", "", "", "{0288C144-8D75-4ca4-8229-0825873B6596}", "Package");
+tocTab[tocTab.length] = new Array("0.3.3.1.3", "1", "«leaf» Block Components", "EARoot/EA3/EA3/EA1/EA3/EA7127.htm", "4.png", "", "", "{A696D990-5A37-4fb0-A355-DDBD0D0D254E}", "Package");
+tocTab[tocTab.length] = new Array("0.3.3.1.4", "1", "«leaf» Choice Components", "EARoot/EA3/EA3/EA1/EA4/EA7133.htm", "4.png", "", "", "{1F5D8E40-7C7F-4322-BFEA-05A573606178}", "Package");
+tocTab[tocTab.length] = new Array("0.3.3.1.5", "1", "«leaf» Record Components", "EARoot/EA3/EA3/EA1/EA5/EA7139.htm", "4.png", "", "", "{CCC90029-BDE1-4981-8B2B-953C028829FC}", "Package");
+tocTab[tocTab.length] = new Array("0.3.3.1.6", "1", "«leaf» Simple Components", "EARoot/EA3/EA3/EA1/EA6/EA7156.htm", "4.png", "", "", "{60A83849-5C40-48f9-9610-7E1E22BE8546}", "Package");
+tocTab[tocTab.length] = new Array("0.3.3.1.7", "1", "«leaf» Simple Encodings", "EARoot/EA3/EA3/EA1/EA7/EA7181.htm", "4.png", "", "", "{0034C584-4678-45b1-BF44-C54893E37538}", "Package");

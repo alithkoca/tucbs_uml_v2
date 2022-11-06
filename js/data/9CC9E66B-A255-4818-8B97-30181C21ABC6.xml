@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.3.4.1:1", "", "GeoSciML-Core package dependencies", "EARoot/EA3/EA4/EA1/EA7198.htm", "176.png", "343", "0", "", "Package diagram0","{CA163C49-64A4-4810-BD83-5696876A6A39}");
+tocTab[tocTab.length] = new Array("0.3.4.1:2", "", "Color code", "EARoot/EA3/EA4/EA1/EA7200.htm", "175.png", "342", "0", "", "Logical diagram0","{47C1A39C-1FF6-4d90-9C68-0C4667484CF7}");
+tocTab[tocTab.length] = new Array("0.3.4.1:3", "", "Summary diagram: Links to ISO19115 metadata", "EARoot/EA3/EA4/EA1/EA7202.htm", "175.png", "344", "0", "", "Logical diagram0","{076E5E5A-B838-4622-9BB7-3D4E6A15D1CD}");
+tocTab[tocTab.length] = new Array("0.3.4.1.1", "1", "«leaf» GeologicFeature", "EARoot/EA3/EA4/EA1/EA1/EA7220.htm", "4.png", "", "", "{C29431BB-9085-4dbd-BDC3-0893FB7D588A}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.1.2", "1", "«leaf» GeologicUnit", "EARoot/EA3/EA4/EA1/EA2/EA7250.htm", "4.png", "", "", "{A27A5631-36FB-4ee5-A284-E263F75703F8}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.1.3", "1", "«leaf» GeologicAge", "EARoot/EA3/EA4/EA1/EA3/EA7269.htm", "4.png", "", "", "{2CCBC4EE-9C3F-41bd-8B6F-58C4080FDDEF}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.1.4", "1", "«leaf» GeologicStructure", "EARoot/EA3/EA4/EA1/EA4/EA7314.htm", "4.png", "", "", "{5913955F-E351-442f-9806-6969F8DD8254}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.1.5", "1", "«leaf» EarthMaterial", "EARoot/EA3/EA4/EA1/EA5/EA7374.htm", "4.png", "", "", "{006E60C4-30AD-4416-AA59-D269D9714249}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.1.6", "1", "«leaf» GeologicRelation", "EARoot/EA3/EA4/EA1/EA6/EA7403.htm", "4.png", "", "", "{956982AA-A62E-4f5b-85E8-FEF92D4F255A}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.1.7", "1", "«leaf» Collection", "EARoot/EA3/EA4/EA1/EA7/EA7409.htm", "4.png", "", "", "{5FF958A7-0F61-4894-A3FD-A0B88881CD53}", "Package");

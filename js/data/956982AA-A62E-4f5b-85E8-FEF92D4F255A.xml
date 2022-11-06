@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.3.4.1.6:1", "", "Context diagram: GeologicRelation", "EARoot/EA3/EA4/EA1/EA6/EA7399.htm", "175.png", "874", "0", "", "Logical diagram0","{7CCB2973-586A-48a7-A2F3-015CBDB7C03A}");
+tocTab[tocTab.length] = new Array("0.3.4.1.6:2", "", "Summary diagram: Geologic Relation", "EARoot/EA3/EA4/EA1/EA6/EA7401.htm", "175.png", "873", "0", "", "Logical diagram0","{4A0DDBDF-89E9-4823-ABA5-A34441D13BEB}");
+tocTab[tocTab.length] = new Array("0.3.4.1.6:3", "", "«FeatureType» GeologicRelation", "EARoot/EA3/EA4/EA1/EA6/EA7404.htm", "5.png", "E2688", "0", "", "Class0","{86665A10-5E6A-4bf2-BCFC-0710E30A0E9B}");
+tocTab[tocTab.length] = new Array("0.3.4.1.6:4", "", "«CodeList» GeologicRelationshipTerm", "EARoot/EA3/EA4/EA1/EA6/EA7405.htm", "5.png", "E2686", "0", "", "Class0","{3F0EC833-AF51-4cf7-94B1-EC60ECF3D5C9}");
+tocTab[tocTab.length] = new Array("0.3.4.1.6:5", "", "«CodeList» RelationRoleTerm", "EARoot/EA3/EA4/EA1/EA6/EA7406.htm", "5.png", "E2687", "0", "", "Class0","{6CC45002-54F9-4c7d-9338-32A1FCB0FF21}");

@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.3.2.7.7:1", "", "Context Diagram: AbstractTimeSlice", "EARoot/EA3/EA2/EA7/EA7/EA6051.htm", "175.png", "736", "0", "", "Logical diagram0","{A4B9A70A-2E73-4b63-821E-AFD3B88EBF9B}");
+tocTab[tocTab.length] = new Array("0.3.2.7.7:2", "", "Context Diagram: DynamicFeature", "EARoot/EA3/EA2/EA7/EA7/EA6053.htm", "175.png", "737", "0", "", "Logical diagram0","{E7F3155E-EAF7-4cf0-A9D6-A4FD11B691FC}");
+tocTab[tocTab.length] = new Array("0.3.2.7.7:3", "", "Context Diagram: DynamicFeatureCollection", "EARoot/EA3/EA2/EA7/EA7/EA6055.htm", "175.png", "734", "0", "", "Logical diagram0","{135FEB2F-F8CB-4638-8463-BD99C6109447}");
+tocTab[tocTab.length] = new Array("0.3.2.7.7:4", "", "Figure D.56 ? Dynamic features", "EARoot/EA3/EA2/EA7/EA7/EA6057.htm", "175.png", "735", "0", "", "Logical diagram0","{92E9014E-842A-47b7-B6DB-39968DF8EBD4}");
+tocTab[tocTab.length] = new Array("0.3.2.7.7:5", "", "«type» AbstractTimeSlice", "EARoot/EA3/EA2/EA7/EA7/EA6060.htm", "5.png", "E2394", "0", "", "Class0","{E3E66158-6277-4b25-90C2-EA9F27B8CB3C}");
+tocTab[tocTab.length] = new Array("0.3.2.7.7:6", "", "«FeatureType» DynamicFeature", "EARoot/EA3/EA2/EA7/EA7/EA6061.htm", "5.png", "E2393", "0", "", "Class0","{357974C4-5134-4ddc-9977-DC89710A19A0}");
+tocTab[tocTab.length] = new Array("0.3.2.7.7:7", "", "«FeatureType» DynamicFeatureCollection", "EARoot/EA3/EA2/EA7/EA7/EA6062.htm", "5.png", "E2395", "0", "", "Class0","{F6984628-3DD5-4e41-95BB-F07A67AF5AD8}");

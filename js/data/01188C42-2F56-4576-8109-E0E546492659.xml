@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.1.3.1:1", "", "Coverage (Geometri-DegerCifti)", "EARoot/EA1/EA1/EA3/EA1/EA47.htm", "175.png", "374", "0", "", "Logical diagram0","{CBE240C4-2AFA-4c33-9DD4-CBA0BF29DB51}");
+tocTab[tocTab.length] = new Array("0.1.1.3.1:2", "", "«featureType» AyrikCoverageGeometriDegerCifti", "EARoot/EA1/EA1/EA3/EA1/EA50.htm", "5.png", "E1754", "0", "", "Class0","{11C62814-E495-44d7-A066-BB6F7EFE42AF}");
+tocTab[tocTab.length] = new Array("0.1.1.3.1:3", "", "«featureType» CokZamanliAnlikCoverage", "EARoot/EA1/EA1/EA3/EA1/EA51.htm", "5.png", "E1753", "0", "", "Class0","{03FAB8B4-47C4-4bbd-BCF4-B1C7EDA6BAE2}");
+tocTab[tocTab.length] = new Array("0.1.1.3.1:4", "", "«dataType» GeometriDegerCifti", "EARoot/EA1/EA1/EA3/EA1/EA52.htm", "5.png", "E1755", "0", "", "Class0","{3598CE8D-0901-49c2-B5E3-A4EBB6F0670A}");

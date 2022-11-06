@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>UlasimAglari</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("UlasimAglari", " : "))</script> ua : Public   Package</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">10.12.2018 15:50:15</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">18.11.2021 16:05:16</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">tucbs</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{7FF7538B-B063-4a4f-A51D-6CDD0784F08B}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">Tan&#305;m:&lt;br/&gt;Ula&#351;&#305;m a&#287;lar&#305;; karayolu, demiryolu, denizyolu ve havayolu ile ili&#351;kili ula&#351;&#305;m a&#287;lar&#305;n&#305;n ve detaylar&#305;n y&#246;netimi i&#231;in b&#252;t&#252;nle&#351;ik bir yap&#305; sa&#287;lar. Ula&#351;&#305;m&#305; temsil eden co&#287;rafi veri; &#231;izgi geometride ula&#351;&#305;m a&#287;lar&#305;, a&#287; kesi&#351;im noktalar&#305; vb. ili&#351;kili bilgi i&#231;ermektedir.&lt;br/&gt;&lt;br/&gt;A&#231;&#305;klama:&lt;br/&gt;Veri yap&#305;s&#305; itibariyle birlikte &#231;al&#305;&#351;abilecek nitelikte ortak kavramsal modele g&#246;re tasarlanm&#305;&#351;t&#305;r. Ger&#231;ek d&#252;nyadaki otob&#252;s hatt&#305; ve tren yolu gibi ula&#351;&#305;m a&#287;lar&#305;, otob&#252;s dura&#287;&#305;,&#160;&#160;tren istasyonu ve yol kesi&#351;imlerini ifade eden ula&#351;&#305;m noktalar&#305; ile b&#252;t&#252;nle&#351;ik y&#246;netilebilir.&lt;br/&gt;Bu veri temas&#305;n&#305;n amac&#305;, ula&#351;&#305;m ile ili&#351;kili bilgilerin y&#246;netiminde ortak bir temel ve referans sa&#287;lamakt&#305;r. Ayr&#305;ca kara-demir-deniz-havayolunun b&#252;t&#252;nle&#351;ik kullan&#305;m&#305; i&#231;in kamu ve &#246;zel sekt&#246;r ihtiya&#231;lar&#305;n&#305; kar&#351;&#305;lamaktad&#305;r. &#214;rne&#287;in ula&#351;&#305;m verisi; emlak y&#246;netimi, envanter y&#246;netimi, in&#351;aat, tasar&#305;m ve planlama, afet y&#246;netimi, acil durum y&#246;netimi, &#231;evresel etki de&#287;erlendirme, ak&#305;&#351; modellemesi, ara&#231; y&#246;nlendirme ve navigasyon sistemleri, kargo hizmetleri, kaza y&#246;netimi, seyahat planlama, bak&#305;m, ula&#351;&#305;m a&#287;&#305; y&#246;netimi, trafik kontrol ve y&#246;netimi uygulamalar&#305;nda kullan&#305;labilir. Ula&#351;&#305;m olanaklar&#305;n&#305;n geli&#351;im i, yolcu g&#252;venli&#287;i, &#231;evresel etki ve sosyal planlamada &#246;nemi ile ekonomik geli&#351;imi desteklemektedir. B&#246;ylelikle ula&#351;&#305;m verisi yerel d&#252;zeyden, b&#246;lgesel, ulusal, Avrupa ve k&#252;resel d&#252;zeye kullan&#305;labilir. T&#252;rkiye&#8217;de il s&#305;n&#305;rlar&#305; &#246;tesinde ulusal ve uluslararas&#305; uygulamalar&#305; destekleyecek d&#252;zeydedir.&lt;br/&gt;&lt;br/&gt;</div>
+
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

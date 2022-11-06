@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.2.16.2:1", "", "Kurumsal Idari Birim", "EARoot/EA2/EA16/EA2/EA1984.htm", "175.png", "122", "0", "", "Logical diagram0","{45770F9B-929E-42d6-B3C0-435F644DB7E9}");
+tocTab[tocTab.length] = new Array("0.2.16.2:2", "", "Kod ve Deger Listeleri", "EARoot/EA2/EA16/EA2/EA1986.htm", "175.png", "123", "0", "", "Logical diagram0","{1ED79466-EC0F-498a-A495-5C73F7320A39}");
+tocTab[tocTab.length] = new Array("0.2.16.2:3", "", "«codeList» KurumsalHiyerarsiDuzeyKodu", "EARoot/EA2/EA16/EA2/EA1989.htm", "5.png", "E866", "0", "", "Class0","{2AC0D2E9-B8B5-43c5-878A-0A4142CC50C0}");
+tocTab[tocTab.length] = new Array("0.2.16.2:4", "", "«featureType» KurumsalIdariBirim", "EARoot/EA2/EA16/EA2/EA1990.htm", "5.png", "E868", "0", "", "Class0","{340EA1AE-6B20-48ac-B7E4-675E9AB66459}");
+tocTab[tocTab.length] = new Array("0.2.16.2:5", "", "«codeList» KurumsalIdariBirimTipi", "EARoot/EA2/EA16/EA2/EA1991.htm", "5.png", "E867", "0", "", "Class0","{3245FFAD-359B-4205-AE55-B4B405010E37}");

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1", "1", "Genel Kavramsal Model", "EARoot/EA1/EA1.htm", "31.png", "", "", "{BBB4E988-D55C-4f73-9F57-6BBD6E094372}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Temalar", "EARoot/EA2/EA251.htm", "31.png", "", "", "{A31D2F52-C465-421f-96BE-7513BF777DD7}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Temel Semalar", "EARoot/EA3/EA3314.htm", "31.png", "", "", "{0B85A621-E4AB-40ff-BD7E-68F92CF4C067}", "Package");

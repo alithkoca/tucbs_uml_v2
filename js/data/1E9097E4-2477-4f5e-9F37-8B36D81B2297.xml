@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.3.1.11:1", "", "PointCloud", "EARoot/EA3/EA1/EA11/EA3718.htm", "175.png", "2837", "0", "", "Logical diagram0","{D1E6256E-745D-41b9-A168-74E57B9C4BE4}");
+tocTab[tocTab.length] = new Array("0.3.1.11:2", "", "PointCloud - ADE Data types", "EARoot/EA3/EA1/EA11/EA3720.htm", "175.png", "2838", "0", "", "Logical diagram0","{AEA3202D-E3CC-492f-9E18-CFF8DDDF041A}");
+tocTab[tocTab.length] = new Array("0.3.1.11:3", "", "«dataType» ADEOfPointCloud", "EARoot/EA3/EA1/EA11/EA3724.htm", "5.png", "E18125", "0", "", "Class0","{8D7D40DD-6CD2-4939-8810-0B139E503B9C}");
+tocTab[tocTab.length] = new Array("0.3.1.11:4", "", "«featureType» PointCloud", "EARoot/EA3/EA1/EA11/EA3725.htm", "5.png", "E18124", "0", "", "Class0","{4CF45C74-6B03-4b1f-9054-0C7CC5E8BD99}");

@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.3.1.4:1", "", "CityFurniture", "EARoot/EA3/EA1/EA4/EA3454.htm", "175.png", "2810", "0", "", "Logical diagram0","{53A8E572-10CE-45e3-82E5-BE48CD278A85}");
+tocTab[tocTab.length] = new Array("0.3.1.4:2", "", "CityFurniture - ADE Data types", "EARoot/EA3/EA1/EA4/EA3456.htm", "175.png", "2812", "0", "", "Logical diagram0","{0779B74C-ACE6-4998-801F-063493393641}");
+tocTab[tocTab.length] = new Array("0.3.1.4:3", "", "CityFurniture - Code lists", "EARoot/EA3/EA1/EA4/EA3458.htm", "175.png", "2811", "0", "", "Logical diagram0","{4C2BD469-1383-45b4-92DF-C11A2A8E67DA}");
+tocTab[tocTab.length] = new Array("0.3.1.4:4", "", "CityFurniture with code lists and ADE data types", "EARoot/EA3/EA1/EA4/EA3460.htm", "175.png", "2813", "0", "", "Logical diagram0","{C8FC8C30-97D5-45d5-8C01-E2741B79667E}");
+tocTab[tocTab.length] = new Array("0.3.1.4:5", "", "«dataType» ADEOfCityFurniture", "EARoot/EA3/EA1/EA4/EA3463.htm", "5.png", "E17910", "0", "", "Class0","{7754D9BB-8B8A-48c6-942D-F675BDB5DFE9}");
+tocTab[tocTab.length] = new Array("0.3.1.4:6", "", "«featureType» CityFurniture", "EARoot/EA3/EA1/EA4/EA3464.htm", "5.png", "E17908", "0", "", "Class0","{3FA58585-6FF2-42a3-8628-6E2728E17E29}");
+tocTab[tocTab.length] = new Array("0.3.1.4:7", "", "«codeList» CityFurnitureClassValue", "EARoot/EA3/EA1/EA4/EA3465.htm", "5.png", "E17909", "0", "", "Class0","{53B017D5-F77F-45a9-9603-DF224904C8EA}");
+tocTab[tocTab.length] = new Array("0.3.1.4:8", "", "«codeList» CityFurnitureFunctionValue", "EARoot/EA3/EA1/EA4/EA3466.htm", "5.png", "E17907", "0", "", "Class0","{1A5FB86D-4F64-4eea-9C62-CE3CFDC366AE}");
+tocTab[tocTab.length] = new Array("0.3.1.4:9", "", "«codeList» CityFurnitureUsageValue", "EARoot/EA3/EA1/EA4/EA3467.htm", "5.png", "E17911", "0", "", "Class0","{DF5FC7F0-E690-43f1-89DD-0196B817665C}");

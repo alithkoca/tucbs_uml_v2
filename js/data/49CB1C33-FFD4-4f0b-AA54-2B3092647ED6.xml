@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.2.4.2:1", "", "AraziOrtusuSeviyeleri", "EARoot/EA2/EA4/EA2/EA1161.htm", "175.png", "89", "0", "", "Logical diagram0","{AB30F75D-C5D2-48fd-9E17-2A62582F39E6}");
+tocTab[tocTab.length] = new Array("0.2.4.2:2", "", "«codeList» AraziOrtusuSeviye1SinifDegeri", "EARoot/EA2/EA4/EA2/EA1164.htm", "5.png", "E621", "0", "", "Class0","{3CC287A5-6C54-4cc0-BBB7-754B08F34EE6}");
+tocTab[tocTab.length] = new Array("0.2.4.2:3", "", "«codeList» AraziOrtusuSeviye2SinifDegeri", "EARoot/EA2/EA4/EA2/EA1165.htm", "5.png", "E622", "0", "", "Class0","{922A210F-D2B1-4af8-A524-E87FD20D68B1}");
+tocTab[tocTab.length] = new Array("0.2.4.2:4", "", "«codeList» AraziOrtusuSeviye3SinifDegeri", "EARoot/EA2/EA4/EA2/EA1166.htm", "5.png", "E624", "0", "", "Class0","{B455175B-7267-4d8d-8A49-25CD1CE34057}");
+tocTab[tocTab.length] = new Array("0.2.4.2:5", "", "«codeList» AraziOrtusuSeviye4SinifDegeri", "EARoot/EA2/EA4/EA2/EA1167.htm", "5.png", "E623", "0", "", "Class0","{A55B8282-459F-41b0-AA63-3DCDD970EF18}");
+tocTab[tocTab.length] = new Array("0.2.4.2:6", "", "«codeList» AraziOrtusuSinifDegeri", "EARoot/EA2/EA4/EA2/EA1168.htm", "5.png", "E620", "0", "", "Class0","{1C832F57-C624-43a7-AC2F-585B14EA5C5C}");
+tocTab[tocTab.length] = new Array("0.2.4.2:7", "", "«dataType» AraziOrtusuSiniflandirma", "EARoot/EA2/EA4/EA2/EA1169.htm", "5.png", "E625", "0", "", "Class0","{DDAE1831-C551-45a6-B73A-9CDD4466AE69}");

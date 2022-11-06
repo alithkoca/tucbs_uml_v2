@@ -1,0 +1,1038 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>gozlem::GO_Gozlem</title>
+<link href="../../../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("GO_Gozlem", " : "))</script>  : Public  &lt;&lt;FeatureType&gt;&gt; Class</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">29.08.2019 09:11:51</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">18.10.2021 16:55:34</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">tucbs</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{5AAB9132-0552-4720-9F47-10F49F58E525}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="../../../../../../EA1/EA1/EA5/EA88.htm">GozlemBicimi - Genel</a>, <a href="../../../../../../EA2/EA8/EA1/EA1428.htm">CevreIzlemeTesisleri</a>, <a href="../../../../../../EA2/EA8/EA1/EA1440.htm">GozlemKabiliyetiVe_ISO_GO_GozlemBaglantisi</a>, <a href="../../../../../../EA2/EA5/EA1/EA1187.htm">AtmosferMeteorolojiGenelBakis</a>, <a href="../../../../../../EA2/EA5/EA1/EA1181.htm">Gozlem_BilgiAmacli</a>, <a href="../../../../../../EA2/EA5/EA1/EA1183.htm">CoverageGozlem_BilgiAmacli</a>, <a href="../../../../../../EA2/EA28/EA1/EA2818.htm">Toprak: GozlemVeOlcum</a>, <a href="../../../../../../EA1/EA1/EA5/EA1/EA98.htm">GozlemKaynagi</a>, <a href="../../../../../../EA1/EA1/EA5/EA1/EA100.htm">KaynaktanGozleme</a>, <a href="../../../../../../EA1/EA1/EA5/EA2/EA104.htm">Islem</a>, <a href="../../../../../../EA1/EA1/EA5/EA3/EA1/EA122.htm">GridlenmisGozlemTipleri</a>, <a href="../../../../../../EA1/EA1/EA5/EA3/EA1/EA124.htm">GridSerisiGozlemler</a>, <a href="../../../../../../EA1/EA1/EA5/EA3/EA1/EA120.htm">GridGozlem</a>, <a href="../../../../../../EA1/EA1/EA5/EA3/EA2/EA142.htm">NoktasalGozlem</a>, <a href="../../../../../../EA1/EA1/EA5/EA3/EA2/EA144.htm">ZamanSerisiNoktasalGozlem</a>, <a href="../../../../../../EA1/EA1/EA5/EA3/EA2/EA146.htm">CokluNoktasalGozlem</a>, <a href="../../../../../../EA1/EA1/EA5/EA3/EA2/EA140.htm">NoktasalGozlemKumesi</a>, <a href="../../../../../../EA1/EA1/EA5/EA3/EA3/EA172.htm">yorungeGozlem</a>, <a href="../../../../../../EA1/EA1/EA5/EA3/EA3/EA170.htm">KesitGozlem</a>, <a href="../EA6869.htm">Figure 2: Observation Core</a>, <a href="../EA6871.htm">Figure 6: Specialized Observations</a>, <a href="../EA6873.htm">Figure 7: Coverage Observation</a>, <a href="../../EA2/EA6946.htm">Figure 10: sampling vs. domain features</a>, <a href="../../EA2/EA6944.htm">Figure 9: SF_SamplingFeature</a>, <a href="../../EA5/EA7062.htm">Figure 16: OrneklemCoverageGozlemi</a>, <a href="../../EA6/EA7066.htm">Context diagram: GFI_Detay</a>, <a href="EA6893.htm">GenelBakis: Gozlem</a>, <a href="EA6887.htm">Context diagram: GO_Gozlem</a>, <a href="EA6889.htm">Context diagram: GO_Islem</a>, <a href="../EA2/EA6900.htm">GO_Olcum</a>, <a href="../EA3/EA6904.htm">GO_KategoriGozlemi</a>, <a href="../EA4/EA6908.htm">GO_SayimGozlemi</a>, <a href="../EA5/EA6912.htm">OM_TruthObservation</a>, <a href="../EA6/EA6916.htm">Context diagram: OM_TemporalObservation</a>, <a href="../EA7/EA6920.htm">Context diagram: OM_GeometryObservation</a>, <a href="../EA8/EA6924.htm">Context diagram: OM_ComplexObservation</a>, <a href="../EA9/EA6928.htm">Context diagram: OM_DiscreteCoverageObservation</a>, <a href="../EA11/EA6938.htm">Summary: Time series observations</a>, <a href="../../EA2/EA1/EA6967.htm">Overview: sampling</a>, <a href="../../EA2/EA1/EA6963.htm">Context diagram: OD_OrneklemDetayi</a>, <a href="../../../../../../EA2/EA29/EA2/EA2902.htm">TurDagilimiIlaveGenelYapisi</a>, <a href="../../../../../../EA1/EA1/EA5/EA5/EA223.htm">SF_SamplingFeature</a>, <a href="../../../../../../EA1/EA1/EA5/EA5/EA225.htm">TemelGozlem</a>, <a href="../../../../../../EA1/EA1/EA5/EA5/EA219.htm">OzelGozlemler</a>, <a href="../../../../../../EA1/EA1/EA5/EA5/EA211.htm">CoverageGozlemler</a>, <a href="../../../../../../EA1/EA1/EA5/EA5/EA215.htm">NoktaBazliGozlemler</a>, <a href="../../../../../../EA1/EA1/EA5/EA5/EA227.htm">YorungeRotaBazliGozlemler</a>, <a href="../../../../../../EA1/EA1/EA5/EA5/EA213.htm">GridBazliGozlemler</a>, <a href="../../../../../../EA1/EA1/EA5/EA5/EA217.htm">OrneklemNumuneBazliGozlemler</a>, <a href="../../../../../../EA2/EA8/EA2/EA3/EA1551.htm">DenizIzlemeTesisleri_Iliskiler</a>, <a href="../../../../../../EA2/EA8/EA2/EA1/EA1480.htm">AtikSuIzlemeTesisleri_Iliskiler</a>, <a href="../../../../../../EA2/EA8/EA2/EA2/EA1515.htm">BiyocesitlilikIzleme_Iliskiler</a>, <a href="../../../../../../EA2/EA8/EA2/EA4/EA1591.htm">HavaIzlemeTesisleri_Iliskiler</a>, <a href="../../../../../../EA2/EA8/EA2/EA5/EA1621.htm">SuIzlemeTesisleri_Iliskiler</a>, <a href="../../../../../../EA2/EA6/EA1/EA1215.htm">Bina - Gürültü</a></td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">Tan&#305;m:&lt;br/&gt;G&#246;zlem, bir detay &#246;zelli&#287;i de&#287;erinin tahmin edilmesiyle sonu&#231;lanan ve sens&#246;r, cihaz, algoritma veya i&#351;lem (proses) zinciri gibi belirli bir prosed&#252;r&#252;n uygulanmas&#305;n&#305; i&#231;eren bir eylemdir. &lt;br/&gt;Prosed&#252;r, &#246;rneklem yerine g&#246;re yerinde, uzaktan veya ex-situ (do&#287;al yeri d&#305;&#351;&#305;nda) olarak uygulanabilir. &lt;br/&gt;Ortak bir modelin kullan&#305;lmas&#305;, farkl&#305; prosed&#252;rleri kullanan g&#246;zlem verilerinin belirsiz olmayacak bir &#351;ekilde birle&#351;tirilmesine izin verir. &lt;br/&gt;G&#246;zlem ayr&#305;nt&#305;lar&#305;, verinin ke&#351;fi ve veri kalitesi tahmini i&#231;in de &#246;nemlidir. G&#246;zlem detay tipleri, bu uygulamalar&#305; destekleyen &#246;zellikler taraf&#305;ndan tan&#305;mlan&#305;r. &lt;br/&gt;G&#246;zlem, bir olguya bir say&#305;, terim veya ba&#351;ka bir sembol&#252;n atand&#305;&#287;&#305; ayr&#305; bir zaman an&#305; veya periyodu ile ili&#351;kili bir eylemdir [2]. Bir g&#246;zlemin sonucu, detay&#305;n bir &#246;zellik de&#287;erinin tahminidir, bu nedenle g&#246;zlem ayr&#305;nt&#305;lar&#305;, detay &#246;zelli&#287;inin de&#287;eriyle ilgili metaverilerdir. &#214;zellikleri ve kimli&#287;i oldu&#287;u i&#231;in g&#246;zlemin kendisi de bir detayd&#305;r.&lt;br/&gt;&lt;br/&gt;</div>
+
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('Attributes');" id="AttributesTitle">Attributes</li>
+			<li onClick="parent.toggleItem('AssociationsTo');" id="AssociationsToTitle">Associations To</li>
+			<li onClick="parent.toggleItem('AssociationsFrom');" id="AssociationsFromTitle">Associations From</li>
+			<li onClick="parent.toggleItem('TaggedVal');" id="TaggedValTitle">Tagged Values</li>
+			<li onClick="parent.toggleItem('Constraints');" id="ConstraintsTitle">Constraints</li>
+			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Advanced</li>
+			<li onClick="parent.toggleItem('Links');" id="LinksTitle">Other Links</li>
+		</ul>
+<div class="ItemBody" id="AttributesTable">
+	<table border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="100%" class="TableHeading">Attribute</td>
+		</tr>
+						<tr>
+				<td width="100%" class="TableRow">
+					<i>Public TM_Period</i><br /><strong>&nbsp;&nbsp;gecerlilikZamani</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">										
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes22219')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes22219" border="0" />Details:</a>
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+					
+						<tr id="DetailsImageAttributes22219_00" style="display: none;">
+							<td width="75"><i>Alias:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22219_01" style="display: none;">
+							<td width="75"><i>Initial:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22219_02" style="display: none;">
+							<td width="75"><i>Stereotype: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22219_03" style="display: none;">
+							<td width="75"><i>Ordered: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22219_04" style="display: none;">
+							<td width="75"><i>Range: </i></td>
+							<td>Range:0 to 1</td>
+						</tr>
+						<tr id="DetailsImageAttributes22219_05" style="display: none;">
+							<td width="75"><i>Transient: </i></td>
+							<td>False</td>
+						</tr>
+						<tr id="DetailsImageAttributes22219_06" style="display: none;">
+							<td width="75"><i>Derived: </i></td>
+							<td>False</td>
+						</tr>
+							<tr id="DetailsImageAttributes22219_07" style="display: none;">
+							<td width="75"><i>IsID: </i></td>
+						<td>False</td>
+						</tr>
+					</table>
+					
+					sequenceNumber=5<br>
+						<div class="ObjectDetailsNotes"><table>
+	<tr>
+		<td valign="top">
+			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
+		</td>
+		<td>
+			E&#287;er mevcutsa, gecerlilikZamani:TM_Period &#246;zniteli&#287;i, sonucun kullan&#305;lmas&#305;n&#305;n ama&#231;land&#305;&#287;&#305; zaman aral&#305;&#287;&#305;n&#305; tan&#305;mlamal&#305;d&#305;r.&lt;br/&gt;NOT Bu &#246;znitelik genellikle tahmin uygulamalar&#305;nda gereklidir.&lt;br/&gt;
+		</td>
+	</tr>
+</table></div>
+
+						
+				</td>
+			</tr>			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public TM_Object</i><br /><strong>&nbsp;&nbsp;olguZamani</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">										
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes22220')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes22220" border="0" />Details:</a>
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+					
+						<tr id="DetailsImageAttributes22220_00" style="display: none;">
+							<td width="75"><i>Alias:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22220_01" style="display: none;">
+							<td width="75"><i>Initial:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22220_02" style="display: none;">
+							<td width="75"><i>Stereotype: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22220_03" style="display: none;">
+							<td width="75"><i>Ordered: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22220_04" style="display: none;">
+							<td width="75"><i>Range: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22220_05" style="display: none;">
+							<td width="75"><i>Transient: </i></td>
+							<td>False</td>
+						</tr>
+						<tr id="DetailsImageAttributes22220_06" style="display: none;">
+							<td width="75"><i>Derived: </i></td>
+							<td>False</td>
+						</tr>
+							<tr id="DetailsImageAttributes22220_07" style="display: none;">
+							<td width="75"><i>IsID: </i></td>
+						<td>False</td>
+						</tr>
+					</table>
+					
+					sequenceNumber=3<br>
+						<div class="ObjectDetailsNotes"><table>
+	<tr>
+		<td valign="top">
+			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
+		</td>
+		<td>
+			olguZamani:TM_Object &#246;zniteli&#287;i, sonucun (6.2.2.9) ilgi detay&#305; (feature-of-interest) (6.2.2.7) &#246;zelli&#287;i i&#231;in ge&#231;erli oldu&#287;u zaman&#305; tan&#305;mlamal&#305;d&#305;r.&lt;br/&gt;Bu genellikle, bir &#246;rneklem prosed&#252;r&#252; (8.2) veya g&#246;zlem prosed&#252;r&#252;n&#252;n (6.2.2.10) bir ger&#231;ek d&#252;nya detay&#305; ile etkile&#351;im zaman&#305;d&#305;r.&lt;br/&gt;NOT 1 Olgu zaman&#305;, sonucun mekansal analizinde kullan&#305;lan zamansal parametredir.&lt;br/&gt;NOT 2 Bir g&#246;zlemin gozlenenOzelligi &#8220;olu&#351;ma zaman&#305;&#8221; ise sonu&#231;, olguZamani ile ayn&#305; olmal&#305;d&#305;r.&lt;br/&gt;&lt;br/&gt;
+		</td>
+	</tr>
+</table></div>
+
+						
+				</td>
+			</tr>			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public <a href="EA6899.htm">IsimlendirilmisDeger</a></i><br /><strong>&nbsp;&nbsp;parametre</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">										
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes22221')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes22221" border="0" />Details:</a>
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+					
+						<tr id="DetailsImageAttributes22221_00" style="display: none;">
+							<td width="75"><i>Alias:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22221_01" style="display: none;">
+							<td width="75"><i>Initial:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22221_02" style="display: none;">
+							<td width="75"><i>Stereotype: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22221_03" style="display: none;">
+							<td width="75"><i>Ordered: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22221_04" style="display: none;">
+							<td width="75"><i>Range: </i></td>
+							<td>Range:0 to *</td>
+						</tr>
+						<tr id="DetailsImageAttributes22221_05" style="display: none;">
+							<td width="75"><i>Transient: </i></td>
+							<td>False</td>
+						</tr>
+						<tr id="DetailsImageAttributes22221_06" style="display: none;">
+							<td width="75"><i>Derived: </i></td>
+							<td>False</td>
+						</tr>
+							<tr id="DetailsImageAttributes22221_07" style="display: none;">
+							<td width="75"><i>IsID: </i></td>
+						<td>False</td>
+						</tr>
+					</table>
+					
+					sequenceNumber=7<br>
+						<div class="ObjectDetailsNotes"><table>
+	<tr>
+		<td valign="top">
+			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
+		</td>
+		<td>
+			E&#287;er mevcutsa, parametre:IsimlendirilmisDeger &#246;znitelikleri, herhangi bir olaya &#246;zg&#252; parametreyi tan&#305;mlayacakt&#305;r.&lt;br/&gt;Bu parametre, &#231;evresel bir parametre, cihaz ayar&#305; veya girdisi veya ilgi detay&#305; (feature of interest) (6.2.2.7) veya g&#246;zlem prosed&#252;r&#252; ile (6.2.2.10) s&#305;k&#305; s&#305;k&#305;ya ili&#351;kili olmayan, olaya-&#246;zg&#252; bir &#246;rnekleme parametresi olabilir. Belirsizli&#287;i &#246;nlemek i&#231;in, ayn&#305; isimde birden fazla parametre yer almamal&#305;d&#305;r.&lt;br/&gt;NOT: Prosed&#252;r ile s&#305;k&#305; s&#305;k&#305;ya ili&#351;kili parametreler, prosed&#252;r a&#231;&#305;klamas&#305;n&#305;n bir par&#231;as&#305; olarak kaydedilebilir.&lt;br/&gt;Baz&#305; durumlarda, G&#246;zlem::prosed&#252;r (6.2.2.10), olaya &#246;zel bir prosesten ziyade genel veya standart bir prosed&#252;rd&#252;r.&lt;br/&gt;Bu kapsamda, cihaz ayarlar&#305;, kalibrasyonlar veya girdiler, lokal konum, tespit s&#305;n&#305;rlar&#305;, varl&#305;k tan&#305;mlay&#305;c&#305;s&#305;, operat&#246;r gibi g&#246;zlem hareketine ba&#287;l&#305; parametreler, standart bir prosed&#252;r&#252;n tan&#305;m&#305;n&#305; geni&#351;letebilir.&lt;br/&gt;&#214;RNEK: Bir kuyudaki su kalitesi g&#246;zlemlerinin zaman serisi, kuyu i&#231;inde de&#287;i&#351;ken derinliklerde olabilir.&lt;br/&gt;Bunlar, ilgi detay&#305; (feature-of-interest) olarak bu derinlikte kuyudan al&#305;nan numunelerle ili&#351;kilendirilebilirken, daha yayg&#305;n bir yakla&#351;&#305;m, kuyunun kendisini ilgi detay&#305; olarak tan&#305;mlamak ve g&#246;zleme bir &quot;orneklemDerinligi&quot; parametresi eklemektir (&#350;ekil 3). &#214;rneklem derinli&#287;i, su kalitesinin zamansal de&#287;i&#351;imine k&#305;yasla ikincil &#246;neme sahiptir.&lt;br/&gt;&lt;br/&gt;
+		</td>
+	</tr>
+</table></div>
+
+						
+				</td>
+			</tr>			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public DQ_Element</i><br /><strong>&nbsp;&nbsp;sonucKalitesi</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">										
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes22222')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes22222" border="0" />Details:</a>
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+					
+						<tr id="DetailsImageAttributes22222_00" style="display: none;">
+							<td width="75"><i>Alias:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22222_01" style="display: none;">
+							<td width="75"><i>Initial:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22222_02" style="display: none;">
+							<td width="75"><i>Stereotype: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22222_03" style="display: none;">
+							<td width="75"><i>Ordered: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22222_04" style="display: none;">
+							<td width="75"><i>Range: </i></td>
+							<td>Range:0 to *</td>
+						</tr>
+						<tr id="DetailsImageAttributes22222_05" style="display: none;">
+							<td width="75"><i>Transient: </i></td>
+							<td>False</td>
+						</tr>
+						<tr id="DetailsImageAttributes22222_06" style="display: none;">
+							<td width="75"><i>Derived: </i></td>
+							<td>False</td>
+						</tr>
+							<tr id="DetailsImageAttributes22222_07" style="display: none;">
+							<td width="75"><i>IsID: </i></td>
+						<td>False</td>
+						</tr>
+					</table>
+					
+					sequenceNumber=10<br>
+						<div class="ObjectDetailsNotes"><table>
+	<tr>
+		<td valign="top">
+			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
+		</td>
+		<td>
+			E&#287;er mevcutsa, sonucKalitesi:DQ_Element &#246;znitelikleri, sonucun kalitesini tan&#305;mlayacakt&#305;r (6.2.2.9). Bu a&#231;&#305;klama, bu prosed&#252;r&#252; kullanan t&#252;m g&#246;zlemlerin kalitesiyle ilgili bilgi sa&#287;layan g&#246;zlem prosed&#252;r&#252;n&#252;n (6.2.2.10) tan&#305;m&#305;n&#305; b&#252;t&#252;nler.&lt;br/&gt;Bir sonucun kalitesi, ISO 19114:2003&#39;teki prosed&#252;rler izlenerek de&#287;erlendirilebilir. Birden fazla &#246;l&#231;&#252;m sa&#287;lanabilir (ISO/TS 19138:2006).&lt;br/&gt;
+		</td>
+	</tr>
+</table></div>
+
+						
+				</td>
+			</tr>			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public TM_Instant</i><br /><strong>&nbsp;&nbsp;sonucZamani</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">										
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes22223')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes22223" border="0" />Details:</a>
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+					
+						<tr id="DetailsImageAttributes22223_00" style="display: none;">
+							<td width="75"><i>Alias:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22223_01" style="display: none;">
+							<td width="75"><i>Initial:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22223_02" style="display: none;">
+							<td width="75"><i>Stereotype: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22223_03" style="display: none;">
+							<td width="75"><i>Ordered: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22223_04" style="display: none;">
+							<td width="75"><i>Range: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes22223_05" style="display: none;">
+							<td width="75"><i>Transient: </i></td>
+							<td>False</td>
+						</tr>
+						<tr id="DetailsImageAttributes22223_06" style="display: none;">
+							<td width="75"><i>Derived: </i></td>
+							<td>False</td>
+						</tr>
+							<tr id="DetailsImageAttributes22223_07" style="display: none;">
+							<td width="75"><i>IsID: </i></td>
+						<td>False</td>
+						</tr>
+					</table>
+					
+					sequenceNumber=4<br>
+						<div class="ObjectDetailsNotes"><table>
+	<tr>
+		<td valign="top">
+			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
+		</td>
+		<td>
+			sonucZamani:TM_Instant &#246;zniteli&#287;i, sonucun kullan&#305;labilir oldu&#287;u zaman&#305;, tipik olarak g&#246;zlemle ili&#351;kili prosed&#252;r&#252;n (6.2.2.10) tamamland&#305;&#287;&#305; zaman&#305; tan&#305;mlayacakt&#305;r. Baz&#305; g&#246;zlemler i&#231;in bu, olguZamani ile ayn&#305;d&#305;r. Ancak, farkl&#305; olduklar&#305; &#246;nemli durumlar da vard&#305;r.&lt;br/&gt;&#214;RNEK 1 Bir laboratuvarda bir numune &#252;zerinde bir &#246;l&#231;&#252;m yap&#305;ld&#305;&#287;&#305;nda, olguZamani numunenin kona&#287;&#305;ndan al&#305;nd&#305;&#287;&#305; zamand&#305;r, sonucZamani ise laboratuvar prosed&#252;r&#252;n&#252;n uyguland&#305;&#287;&#305; zamand&#305;r.&lt;br/&gt;&#214;RNEK 2 sonucZamani, ayn&#305; prosed&#252;r kullan&#305;larak bir detay&#305;n ayn&#305; &#246;zelli&#287;i i&#231;in yap&#305;lan tekrar &#246;l&#231;&#252;mleri a&#231;&#305;kl&#305;&#287;a kavu&#351;turmay&#305; da destekler.&lt;br/&gt;&#214;RNEK 3 Sens&#246;r g&#246;zlem sonu&#231;lar&#305;n&#305;n sonradan i&#351;lendi&#287;i durumlarda, sonu&#231;Zamani son i&#351;lem zaman&#305; iken, olguZamani yery&#252;z&#252; ile ilk etkile&#351;im zaman&#305;d&#305;r. &lt;br/&gt;&#214;RNEK 4 Sim&#252;lasyonlar, gelecekteki veya ge&#231;mi&#351;teki olgu de&#287;erlerini tahmin etmek i&#231;in kullan&#305;labilir. olguZamani, sonucun ge&#231;erli oldu&#287;u zamand&#305;r, sonucZamani ise sim&#252;lasyonun y&#252;r&#252;t&#252;ld&#252;&#287;&#252; zamand&#305;r.&lt;br/&gt;
+		</td>
+	</tr>
+</table></div>
+
+						
+				</td>
+			</tr>
+	</table>
+</div>
+		<div class="ItemBody" id="AssociationsToTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="40%" class="TableHeading">Element</td>
+					<td width="30%" class="TableHeading">Source Role</td>
+					<td width="30%" class="TableHeading">Target Role</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="EA6897.htm">«FeatureType» GO_Islem</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> eldeEdilenGozlem<br />
+						Many Observations may be generated by a procedure, except if the Process is instance-specific, where the time of application is bound into the description of the Process. 
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> prosedur<br />
+						The association ProcessUsed shall link the OM_Observation to the OM_Process (6.2.3) used to generate the result. The process has the role procedure with respect to the observation. A process might be responsible for more than one generatedObservation. 
+The OM_Process shall be suitable for the observed property. As a corollary, details of the observed property are constrained by the procedure used.  
+EXAMPLE 	Observed radiance wavelength is determined by the response characteristics of the sensor. 
+A description of the observation procedure provides or implies an indication of the reliability or quality of the observation result. 
+	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink22224" onclick="parent.toggleDiv('detailsDIVLink22224','DetailsImageLink22224')" />Details:
+							<div id="detailsDIVLink22224" class="DetailsDiv" >
+							<div class="ObjectDetailsNotes">The association &lt;i&gt;ProcessUsed&lt;/i&gt; shall link the OM_Observation to the OM_Process (6.2.3) used to generate the result. The process has the role &lt;i&gt;procedure&lt;/i&gt; with respect to the observation. A process might be responsible for more than one &lt;i&gt;generatedObservation&lt;/i&gt;. &lt;br/&gt;The OM_Process shall be suitable for the observed property. As a corollary, details of the observed property are constrained by the procedure used.&#160;&#160;&lt;br/&gt;EXAMPLE 	Observed radiance wavelength is determined by the response characteristics of the sensor. &lt;br/&gt;A description of the observation procedure provides or implies an indication of the reliability or quality of the observation result. observation result. &lt;br/&gt;</div>
+
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="../../EA6/EA7071.htm">«FeatureType» GFI_Detay</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> ozellikDegerSaglayici<br />
+						Bir özellik değeri tahmini sağlayan bir gözleme işaret eder.
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> ilgiDetayi<br />
+						ilgiDetayi (featureOfInterest)
+Etki alanı (Domain) ilişkisi, OM_Gozlemi (OM_Observation), gözlemin konusu olan ve gözlemlenen özelliği taşıyan GFI_Detay’a (B.2.1) bağlayacaktır.
+Bu detay, gözlemle ilgili olarak ilgi detayı (featureOfInterest) rolüne sahiptir. Bu detay, özellikleri gözlenen gerçek dünya nesnesidir veya bu standardın 8. Maddesinde açıklandığı gibi gerçek dünya nesnesini örneklemeye yönelik bir detaydır. Bir gözlem örneği, kendi ilgi detayı için ozellikDegerSaglayici (propertyValueProvider) görevi görür.	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink22225" onclick="parent.toggleDiv('detailsDIVLink22225','DetailsImageLink22225')" />Details:
+							<div id="detailsDIVLink22225" class="DetailsDiv" >
+							<div class="ObjectDetailsNotes">Etki alan&#305; (Domain) ili&#351;kisi, OM_Gozlem (OM_Observation)&#305;, g&#246;zlemin konusu olan ve g&#246;zlemlenen &#246;zelli&#287;i ta&#351;&#305;yan GFI_Detay&#8217;a (B.2.1) ba&#287;layacakt&#305;r. Bu detay, g&#246;zlemle ilgili olarak ilgi detay&#305; (featureOfInterest) rol&#252;ne sahiptir.&lt;br/&gt;Bu detay, &#246;zellikleri g&#246;zlem alt&#305;nda olan ger&#231;ek d&#252;nya nesnesidir veya bu standard&#305;n 8. Maddesinde a&#231;&#305;kland&#305;&#287;&#305; gibi ger&#231;ek d&#252;nya nesnesini &#246;rneklemeye y&#246;nelik bir detayd&#305;r. Bir g&#246;zlem &#246;rne&#287;i, kendi ilgi detay&#305; (foI) i&#231;in ozellikDegerSaglayici (propertyValueProvider) g&#246;revi g&#246;r&#252;r.&lt;br/&gt;&lt;br/&gt;</div>
+
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="../../../../../../EA1/EA1/EA5/EA1/EA103.htm">«featureType» GozlemSeti</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> uye<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink22226" onclick="parent.toggleDiv('detailsDIVLink22226','DetailsImageLink22226')" />Details:
+							<div id="detailsDIVLink22226" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="../../../../EA3/EA1/EA4879.htm">«metaclass» GF_OzellikTipi</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> gozlenenOzellik<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink22227" onclick="parent.toggleDiv('detailsDIVLink22227','DetailsImageLink22227')" />Details:
+							<div id="detailsDIVLink22227" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="EA6896.htm">«FeatureType» GO_Gozlem</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> ilgiliGozlem<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink22228" onclick="parent.toggleDiv('detailsDIVLink22228','DetailsImageLink22228')" />Details:
+							<div id="detailsDIVLink22228" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="AssociationsFromTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="40%" class="TableHeading">Element</td>
+					<td width="30%" class="TableHeading">Source Role</td>
+					<td width="30%" class="TableHeading">Target Role</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="../../../../../../EA2/EA28/EA1/EA2854.htm">«featureType» ToprakProfilAlani</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> soilSiteObservation<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink22229" onclick="parent.toggleDiv('detailsDIVLink22229','DetailsImageLink22229')" />Details:
+							<div id="detailsDIVLink22229" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="../../../../../../EA2/EA28/EA1/EA2843.htm">«featureType» ProfilBileseni</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink22230" onclick="parent.toggleDiv('detailsDIVLink22230','DetailsImageLink22230')" />Details:
+							<div id="detailsDIVLink22230" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="../../../../EA2/EA1/EA2/EA3/EA4662.htm">«type» Any</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink22231" onclick="parent.toggleDiv('detailsDIVLink22231','DetailsImageLink22231')" />Details:
+							<div id="detailsDIVLink22231" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="../../../../EA2/EA1/EA2/EA3/EA4662.htm">«type» Any</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink22232" onclick="parent.toggleDiv('detailsDIVLink22232','DetailsImageLink22232')" />Details:
+							<div id="detailsDIVLink22232" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="EA6896.htm">«FeatureType» GO_Gozlem</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> ilgiliGozlem<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink22233" onclick="parent.toggleDiv('detailsDIVLink22233','DetailsImageLink22233')" />Details:
+							<div id="detailsDIVLink22233" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="../../../../../../EA2/EA28/EA1/EA2852.htm">«featureType» TopraklaIliskiliAraziNesnesi</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink22234" onclick="parent.toggleDiv('detailsDIVLink22234','DetailsImageLink22234')" />Details:
+							<div id="detailsDIVLink22234" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="../../EA2/EA1/EA6972.htm">«FeatureType» OD_OrneklemDetayi</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> ilgiliGozlem<br />
+						Sampling features are distinctive compared with other features from application domains by having navigable associations to observations. If present, the association Design shall link the SF_SamplingFeature to an OM_Observation that was made utilizing the sampling feature, and the description of the sampling feature provides an intrinsic element of the observation protocol, along with the observation procedure (6.2.2.10) and the decomposition of the domain geometry in the case of a coverage-valued result (7.3.1). The OM_Observation has the role relatedObservation with respect to the sampling feature. Multiple observations may be made on a single sampling feature. 
+This association complements the Domain association owned by OM_Observation. The featureOfInterest of a relatedObservation shall be the SF_SamplingFeature (modelled as a UML constraint). 
+	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink22235" onclick="parent.toggleDiv('detailsDIVLink22235','DetailsImageLink22235')" />Details:
+							<div id="detailsDIVLink22235" class="DetailsDiv" >
+							<div class="ObjectDetailsNotes">Sampling features are distinctive compared with other features from application domains by having navigable associations&lt;b&gt; &lt;/b&gt;to observations. If present, the association &lt;i&gt;Design &lt;/i&gt;shall link the SF_SamplingFeature to an OM_Observation that was made utilizing the sampling feature, and the description of the sampling feature provides an intrinsic element of the observation protocol, along with the observation procedure (6.2.2.10) and the decomposition of the domain geometry in the case of a coverage-valued result (7.3.1). The OM_Observation has the role &lt;i&gt;relatedObservation &lt;/i&gt;with respect to the sampling feature. Multiple observations may be made on a single sampling feature. &lt;br/&gt;This association complements the Domain association owned by OM_Observation. The featureOfInterest of a relatedObservation shall be the SF_SamplingFeature (modelled as a UML constraint). relatedObservation shall be the SF_SamplingFeature. &lt;br/&gt;&lt;br/&gt;</div>
+
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="../../../../../../EA2/EA28/EA1/EA2858.htm">«featureType» ToprakProfili</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink22236" onclick="parent.toggleDiv('detailsDIVLink22236','DetailsImageLink22236')" />Details:
+							<div id="detailsDIVLink22236" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="../../../../../../EA2/EA8/EA1/EA1457.htm">«featureType» SoyutIzlemeDetayi</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink22237" onclick="parent.toggleDiv('detailsDIVLink22237','DetailsImageLink22237')" />Details:
+							<div id="detailsDIVLink22237" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+<div class="ItemBody" id="TaggedValTable">
+	<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="50%" class="TableHeading">Tag</td>
+			<td width="50%" class="TableHeading">Value</td>
+		</tr>
+					<tr>
+				<td width="50%" class="TableRow" valign="top">byValuePropertyType</td>
+				<td width="50%" class="TableRow" valign="top">false</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario22238" onclick="parent.toggleDiv('detailsDIVScenario22238','DetailsImageScenario22238')" />Details:
+						<div id="detailsDIVScenario22238" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: true,false<br />Default: false<br />Description: enforce the &#39;by value&#39; property pattern without xl<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">byValuePropertyType</td>
+				<td width="50%" class="TableRow" valign="top">false</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario22239" onclick="parent.toggleDiv('detailsDIVScenario22239','DetailsImageScenario22239')" />Details:
+						<div id="detailsDIVScenario22239" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: true | false<br />Default: false<br />Description: enforce the &#39;by value&#39; property pattern without xlinks<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">hasXmlLang</td>
+				<td width="50%" class="TableRow" valign="top">false</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario22240" onclick="parent.toggleDiv('detailsDIVScenario22240','DetailsImageScenario22240')" />Details:
+						<div id="detailsDIVScenario22240" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: true | false<br />Default: false<br />Description: axml attribute xml:lang shall be generated for the type representing the class<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">isCollection</td>
+				<td width="50%" class="TableRow" valign="top">false</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario22241" onclick="parent.toggleDiv('detailsDIVScenario22241','DetailsImageScenario22241')" />Details:
+						<div id="detailsDIVScenario22241" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: true,false<br />Default: false<br />Description: attribute group gml:AggregationAttributeGroup is a<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">isCollection</td>
+				<td width="50%" class="TableRow" valign="top">false</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario22242" onclick="parent.toggleDiv('detailsDIVScenario22242','DetailsImageScenario22242')" />Details:
+						<div id="detailsDIVScenario22242" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: true | false<br />Default: false<br />Description: attribute group gml:AggregationAttributeGroup is added to the complex type of the feature type<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">noPropertyType</td>
+				<td width="50%" class="TableRow" valign="top">false</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario22243" onclick="parent.toggleDiv('detailsDIVScenario22243','DetailsImageScenario22243')" />Details:
+						<div id="detailsDIVScenario22243" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: true,false<br />Default: false<br />Description: suppress automatic creation of *PropertyType compl<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">noPropertyType</td>
+				<td width="50%" class="TableRow" valign="top">false</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario22244" onclick="parent.toggleDiv('detailsDIVScenario22244','DetailsImageScenario22244')" />Details:
+						<div id="detailsDIVScenario22244" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: true | false<br />Default: false<br />Description: suppress automatic creation of *PropertyType complexType<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>
+	</table>
+</div>		<div class="ItemBody" id="ConstraintsTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+			  	<tr>
+					<td width="80%" class="TableHeading">Constraint</td>
+					<td width="10%" class="TableHeading">Type</td>
+					<td width="10%" class="TableHeading">Status</td>
+				</tr>
+				<tr>
+					<td width="80%" class="TableRow">observedProperty shall be a phenomenon associated with the feature of interest</td>
+					<td width="10%" class="TableRow">Invariant</td>
+					<td width="10%" class="TableRow">Approved</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageConstraints22245" onclick="parent.toggleDiv('detailsDIVConstraints22245','DetailsImageConstraints22245')" />Details:
+							<div id="detailsDIVConstraints22245" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="80%" class="TableRow">procedure shall be suitable for observedProperty</td>
+					<td width="10%" class="TableRow">Invariant</td>
+					<td width="10%" class="TableRow">Approved</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageConstraints22246" onclick="parent.toggleDiv('detailsDIVConstraints22246','DetailsImageConstraints22246')" />Details:
+							<div id="detailsDIVConstraints22246" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="80%" class="TableRow">result type shall be suitable for observedProperty</td>
+					<td width="10%" class="TableRow">Invariant</td>
+					<td width="10%" class="TableRow">Approved</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageConstraints22247" onclick="parent.toggleDiv('detailsDIVConstraints22247','DetailsImageConstraints22247')" />Details:
+							<div id="detailsDIVConstraints22247" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="80%" class="TableRow">a parameter.name shall not appear more than once</td>
+					<td width="10%" class="TableRow">Invariant</td>
+					<td width="10%" class="TableRow">Approved</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageConstraints22248" onclick="parent.toggleDiv('detailsDIVConstraints22248','DetailsImageConstraints22248')" />Details:
+							<div id="detailsDIVConstraints22248" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="CustomPropertiesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Property</td>
+					<td width="70%" class="TableHeading">Value</td>
+				</tr>
+			<tr>
+				<td width="30%" class="TableRow">isFinalSpecialization:</td>
+				<td width="70%" class="TableRow">0</td>
+			</tr>
+
+
+			</table>
+		</div>		<div class="ItemBody" id="LinksTable">
+			<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Object</td>
+					<td width="10%" class="TableHeading">Type</td>
+					<td width="10%" class="TableHeading">Connection</td>
+					<td width="10%" class="TableHeading">Direction</td>
+					<td width="40%" class="TableHeading">Notes</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../EA9/EA6931.htm">«FeatureType» GO_AyrikCoverageGozlem</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../../../../../EA2/EA6/EA1/EA1268.htm">«featureType» GurultuSensor</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../EA3/EA6907.htm">«FeatureType» GO_KategoriGozlemi</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../EA7/EA6923.htm">«FeatureType» GO_GeometriGozlem</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../EA5/EA6915.htm">«FeatureType» GO_GercekGozlem</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../EA2/EA6903.htm">«FeatureType» GO_Olcum</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../../../../../EA1/EA1/EA5/EA1/EA103.htm">«featureType» GozlemSeti</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Weak</td>
+					<td width="10%" class="TableRow" valign="top">To</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../EA6/EA6919.htm">«FeatureType» GO_ZamansalGozlem</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../../../EA2/EA1/EA2/EA3/EA4662.htm">«type» Any</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Strong</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="EA6896.htm">«FeatureType» GO_Gozlem</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">To</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../EA4/EA6911.htm">«FeatureType» GO_SayimGozlemi</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../EA8/EA6927.htm">«FeatureType» GO_KarmasikGozlem</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+
+			</table>
+		</div>
+	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

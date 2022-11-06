@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.3.2.6.1.7:1", "", "Context Diagram: CV_CommonPointRule", "EARoot/EA3/EA2/EA6/EA1/EA7/EA5810.htm", "175.png", "1152", "0", "", "Logical diagram0","{3E7AE19A-1C7A-4f1b-9E60-7F5855349FD6}");
+tocTab[tocTab.length] = new Array("0.3.2.6.1.7:2", "", "Context Diagram: CV_SegmentedCurveCoverage", "EARoot/EA3/EA2/EA6/EA1/EA7/EA5812.htm", "175.png", "1151", "0", "", "Logical diagram0","{F0B7EADF-0CBE-493d-84AB-2E69A155BFAC}");
+tocTab[tocTab.length] = new Array("0.3.2.6.1.7:3", "", "Context Diagram: CV_ValueCurve", "EARoot/EA3/EA2/EA6/EA1/EA7/EA5814.htm", "175.png", "1150", "0", "", "Logical diagram0","{9859D8B3-ECEC-4149-A509-7ADE1840A33D}");
+tocTab[tocTab.length] = new Array("0.3.2.6.1.7:4", "", "Context Diagram: CV_ValueSegment", "EARoot/EA3/EA2/EA6/EA1/EA7/EA5816.htm", "175.png", "1149", "0", "", "Logical diagram0","{EF61749D-F3B9-4186-8974-FFCE9851C917}");
+tocTab[tocTab.length] = new Array("0.3.2.6.1.7:5", "", "Fig 24 - CV_SegmentedCurveCoverage", "EARoot/EA3/EA2/EA6/EA1/EA7/EA5818.htm", "175.png", "1148", "0", "", "Logical diagram0","{4524F838-9866-408c-9DB9-E5C540544738}");
+tocTab[tocTab.length] = new Array("0.3.2.6.1.7:6", "", "«codelist» CV_CommonPointRule", "EARoot/EA3/EA2/EA6/EA1/EA7/EA5821.htm", "5.png", "E3104", "0", "", "Class0","{5B7E16CC-6963-495f-9D44-C96C6010E8BC}");
+tocTab[tocTab.length] = new Array("0.3.2.6.1.7:7", "", "«type» CV_SegmentedCurveCoverage", "EARoot/EA3/EA2/EA6/EA1/EA7/EA5822.htm", "5.png", "E3103", "0", "", "Class0","{509EDA3D-7B0A-4da3-862A-8563D0D48EB8}");
+tocTab[tocTab.length] = new Array("0.3.2.6.1.7:8", "", "CV_ValueCurve", "EARoot/EA3/EA2/EA6/EA1/EA7/EA5823.htm", "5.png", "E3102", "0", "", "Class0","{0B4B968A-B610-4ca8-83A1-5E7E0CAB4ABB}");
+tocTab[tocTab.length] = new Array("0.3.2.6.1.7:9", "", "CV_ValueSegment", "EARoot/EA3/EA2/EA6/EA1/EA7/EA5824.htm", "5.png", "E3105", "0", "", "Class0","{6B15740C-2736-4203-8576-30453D3B2892}");

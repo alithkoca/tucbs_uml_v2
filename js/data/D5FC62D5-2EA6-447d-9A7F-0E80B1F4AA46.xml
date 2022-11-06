@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.3.2.5.12:1", "", "Context Diagram: MD_DatatypeCode", "EARoot/EA3/EA2/EA5/EA12/EA5484.htm", "175.png", "645", "0", "", "Logical diagram0","{B7E26CEA-8ED9-4be3-B51D-CE69827D47B8}");
+tocTab[tocTab.length] = new Array("0.3.2.5.12:2", "", "Context Diagram: MD_ExtendedElementInformation", "EARoot/EA3/EA2/EA5/EA12/EA5486.htm", "175.png", "642", "0", "", "Logical diagram0","{825A0928-48E6-4c77-A0D0-52F401F92AC9}");
+tocTab[tocTab.length] = new Array("0.3.2.5.12:3", "", "Context Diagram: MD_MetadataExtensionInformation", "EARoot/EA3/EA2/EA5/EA12/EA5488.htm", "175.png", "643", "0", "", "Logical diagram0","{427CBFDF-EC9C-4429-BDD8-B4C2C712BEFB}");
+tocTab[tocTab.length] = new Array("0.3.2.5.12:4", "", "Context Diagram: MD_ObligationCode", "EARoot/EA3/EA2/EA5/EA12/EA5490.htm", "175.png", "644", "0", "", "Logical diagram0","{4CF05DA5-1756-4b50-BED4-C7D099146AEE}");
+tocTab[tocTab.length] = new Array("0.3.2.5.12:5", "", "Fig A.13 : Metadata extension information", "EARoot/EA3/EA2/EA5/EA12/EA5492.htm", "175.png", "640", "0", "", "Logical diagram0","{5BFEAA92-C97D-42c3-9DC5-45368401191C}");
+tocTab[tocTab.length] = new Array("0.3.2.5.12:6", "", "Main", "EARoot/EA3/EA2/EA5/EA12/EA5494.htm", "175.png", "641", "0", "", "Logical diagram0","{BDEDA2B5-39DE-4fe8-A187-D685615DB127}");
+tocTab[tocTab.length] = new Array("0.3.2.5.12:7", "", "«CodeList» MD_DatatypeCode", "EARoot/EA3/EA2/EA5/EA12/EA5498.htm", "5.png", "E2300", "0", "", "Class0","{4AFE4250-08CC-4eee-A552-E391699D15AE}");
+tocTab[tocTab.length] = new Array("0.3.2.5.12:8", "", "MD_ExtendedElementInformation", "EARoot/EA3/EA2/EA5/EA12/EA5499.htm", "5.png", "E2301", "0", "", "Class0","{BD92F76A-9725-4e90-9301-A261D1076F1B}");
+tocTab[tocTab.length] = new Array("0.3.2.5.12:9", "", "MD_MetadataExtensionInformation", "EARoot/EA3/EA2/EA5/EA12/EA5500.htm", "5.png", "E2302", "0", "", "Class0","{BFB93B9A-E698-4c7c-8A6E-F9C76A48DD04}");
+tocTab[tocTab.length] = new Array("0.3.2.5.12:10", "", "«enumeration» MD_ObligationCode", "EARoot/EA3/EA2/EA5/EA12/EA5501.htm", "5.png", "E2299", "0", "", "Class0","{2F3067CF-ED35-48ac-96F7-679072A5B3CF}");

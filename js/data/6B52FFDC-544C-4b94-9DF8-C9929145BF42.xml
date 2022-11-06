@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.4:1", "", "Context Diagram: Decimal", "EARoot/EA3/EA2/EA2/EA1/EA3/EA4/EA4741.htm", "175.png", "1298", "0", "", "Logical diagram0","{CCF97798-0A2E-43ac-82B0-84B0D4D280AB}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.4:2", "", "Context Diagram: Integer", "EARoot/EA3/EA2/EA2/EA1/EA3/EA4/EA4743.htm", "175.png", "1302", "0", "", "Logical diagram0","{51EDF11F-B0C9-45a2-A8DD-91DB10EF0ACC}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.4:3", "", "Context Diagram: Number", "EARoot/EA3/EA2/EA2/EA1/EA3/EA4/EA4745.htm", "175.png", "1297", "0", "", "Logical diagram0","{5C36CEAC-E94B-4916-B43E-AAB5F218D8E8}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.4:4", "", "Context Diagram: Real", "EARoot/EA3/EA2/EA2/EA1/EA3/EA4/EA4747.htm", "175.png", "1300", "0", "", "Logical diagram0","{5BC7CFE8-7C09-45a3-AABD-DB3D5768D160}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.4:5", "", "Context Diagram: UnlimitedInteger", "EARoot/EA3/EA2/EA2/EA1/EA3/EA4/EA4749.htm", "175.png", "1299", "0", "", "Logical diagram0","{F93F622C-9BA3-4058-BC9B-5F546F097C0C}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.4:6", "", "Context Diagram: Vector", "EARoot/EA3/EA2/EA2/EA1/EA3/EA4/EA4751.htm", "175.png", "1304", "0", "", "Logical diagram0","{4460D1BC-5452-4faa-A449-3745B73AA351}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.4:7", "", "Numerics", "EARoot/EA3/EA2/EA2/EA1/EA3/EA4/EA4753.htm", "175.png", "1301", "0", "", "Logical diagram0","{B2CA21A2-7228-4d52-A781-0927C35142DB}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.4:8", "", "Types related to Numerics", "EARoot/EA3/EA2/EA2/EA1/EA3/EA4/EA4755.htm", "175.png", "1303", "0", "", "Logical diagram0","{42A45A9A-942F-4681-93D3-65DE2F075D6A}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.4:9", "", "«type» Decimal", "EARoot/EA3/EA2/EA2/EA1/EA3/EA4/EA4759.htm", "5.png", "E3723", "0", "", "Class0","{E850EE38-AA86-40b3-821F-4E279390B8A5}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.4:10", "", "«type» Integer", "EARoot/EA3/EA2/EA2/EA1/EA3/EA4/EA4760.htm", "5.png", "E3722", "0", "", "Class0","{DAB262FC-9CF3-4897-9F9E-3C72D3CB6011}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.4:11", "", "«type» Number", "EARoot/EA3/EA2/EA2/EA1/EA3/EA4/EA4761.htm", "5.png", "E3724", "0", "", "Class0","{E8861D5A-A41E-4972-B179-D1E88D569DA8}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.4:12", "", "«type» Real", "EARoot/EA3/EA2/EA2/EA1/EA3/EA4/EA4762.htm", "5.png", "E3721", "0", "", "Class0","{5C827ED6-8F5D-4454-9E09-3CC08D23565B}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.4:13", "", "«type» UnlimitedInteger", "EARoot/EA3/EA2/EA2/EA1/EA3/EA4/EA4763.htm", "5.png", "E3718", "0", "", "Class0","{2017881A-825D-47a2-A72E-94034B5C2291}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1.3.4:14", "", "«type» Vector", "EARoot/EA3/EA2/EA2/EA1/EA3/EA4/EA4764.htm", "5.png", "E3720", "0", "", "Class0","{2B91ACFF-7A59-4eed-8DBE-813DFD157401}");

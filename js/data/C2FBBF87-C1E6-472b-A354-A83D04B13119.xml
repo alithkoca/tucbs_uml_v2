@@ -1,0 +1,16 @@
+tocTab[tocTab.length] = new Array("0.3.2.8.2.4:1", "", "Fig 18 LCML_ClassCharacteristics", "EARoot/EA3/EA2/EA8/EA2/EA4/EA6463.htm", "175.png", "1169", "0", "", "Logical diagram0","{262EDAC1-D8D6-4c20-9CEE-18450C2E81A4}");
+tocTab[tocTab.length] = new Array("0.3.2.8.2.4:2", "", "«interface» LC_Climate", "EARoot/EA3/EA2/EA8/EA2/EA4/EA6466.htm", "5.png", "E3230", "0", "", "Class0","{BA8C6EFA-77FA-4a8e-85D9-5C61E33D2C3A}");
+tocTab[tocTab.length] = new Array("0.3.2.8.2.4:3", "", "«codelist» LC_ErosionType", "EARoot/EA3/EA2/EA8/EA2/EA4/EA6467.htm", "5.png", "E3222", "0", "", "Class0","{1B8A5E61-AC0E-4b5c-B0AE-7652B008B170}");
+tocTab[tocTab.length] = new Array("0.3.2.8.2.4:4", "", "«interface» LC_GeographicalAspects", "EARoot/EA3/EA2/EA8/EA2/EA4/EA6468.htm", "5.png", "E3234", "0", "", "Class0","{E1B7F5BC-9168-4dea-AD68-2629D94C452E}");
+tocTab[tocTab.length] = new Array("0.3.2.8.2.4:5", "", "«codelist» LC_GeoType", "EARoot/EA3/EA2/EA8/EA2/EA4/EA6469.htm", "5.png", "E3231", "0", "", "Class0","{D106A49A-B84C-4e75-8166-9913156542BB}");
+tocTab[tocTab.length] = new Array("0.3.2.8.2.4:6", "", "«interface» LC_LandForm", "EARoot/EA3/EA2/EA8/EA2/EA4/EA6470.htm", "5.png", "E3225", "0", "", "Class0","{5E6F2744-FAFA-4f28-9D41-706C5C9AA023}");
+tocTab[tocTab.length] = new Array("0.3.2.8.2.4:7", "", "«codelist» LC_LandformType", "EARoot/EA3/EA2/EA8/EA2/EA4/EA6471.htm", "5.png", "E3224", "0", "", "Class0","{55C56D61-2B99-4522-BDD8-BE05CC8E08E1}");
+tocTab[tocTab.length] = new Array("0.3.2.8.2.4:8", "", "«codelist» LC_RockAgeType", "EARoot/EA3/EA2/EA8/EA2/EA4/EA6472.htm", "5.png", "E3232", "0", "", "Class0","{D34D3327-6B1C-4cfd-9941-AED10F839C27}");
+tocTab[tocTab.length] = new Array("0.3.2.8.2.4:9", "", "«interface» LC_RocksSurfaceCharacteristic", "EARoot/EA3/EA2/EA8/EA2/EA4/EA6473.htm", "5.png", "E3220", "0", "", "Class0","{0C94DD92-65ED-468b-9476-028CB2959A38}");
+tocTab[tocTab.length] = new Array("0.3.2.8.2.4:10", "", "«codelist» LC_RockType", "EARoot/EA3/EA2/EA8/EA2/EA4/EA6474.htm", "5.png", "E3233", "0", "", "Class0","{D568B2A8-41F3-4605-968A-8FDB728458D9}");
+tocTab[tocTab.length] = new Array("0.3.2.8.2.4:11", "", "«codelist» LC_SedimentationType", "EARoot/EA3/EA2/EA8/EA2/EA4/EA6475.htm", "5.png", "E3227", "0", "", "Class0","{704F4AA8-1313-4bc8-8551-B5A0F9D0AAED}");
+tocTab[tocTab.length] = new Array("0.3.2.8.2.4:12", "", "«codelist» LC_SlopeExposition", "EARoot/EA3/EA2/EA8/EA2/EA4/EA6476.htm", "5.png", "E3229", "0", "", "Class0","{9F9791CB-3A1C-4764-B19D-66C312C96BE7}");
+tocTab[tocTab.length] = new Array("0.3.2.8.2.4:13", "", "«interface» LC_SoilSandDepositsSurfaceCharacteristic", "EARoot/EA3/EA2/EA8/EA2/EA4/EA6477.htm", "5.png", "E3223", "0", "", "Class0","{42AD2850-4D9E-4105-9AD7-349601E0F92C}");
+tocTab[tocTab.length] = new Array("0.3.2.8.2.4:14", "", "«codelist» LC_SoilType", "EARoot/EA3/EA2/EA8/EA2/EA4/EA6478.htm", "5.png", "E3221", "0", "", "Class0","{11103826-3CF6-408a-BE0D-6C0A1FCEDA5D}");
+tocTab[tocTab.length] = new Array("0.3.2.8.2.4:15", "", "«interface» LC_SurfaceCharacteristic", "EARoot/EA3/EA2/EA8/EA2/EA4/EA6479.htm", "5.png", "E3228", "0", "", "Class0","{945151FB-824F-462f-93DC-4E0F8A7C5BD0}");
+tocTab[tocTab.length] = new Array("0.3.2.8.2.4:16", "", "«interface» LC_TopographicalAspects", "EARoot/EA3/EA2/EA8/EA2/EA4/EA6480.htm", "5.png", "E3226", "0", "", "Class0","{6E7F48ED-BCEC-452a-8F65-8DAC19780D07}");

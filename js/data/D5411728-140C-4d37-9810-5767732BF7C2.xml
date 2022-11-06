@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.3.2.7.15:1", "", "Context Diagram: DirectedObservation", "EARoot/EA3/EA2/EA7/EA15/EA6131.htm", "175.png", "762", "0", "", "Logical diagram0","{C3B7D7DF-1845-4fd8-B0FC-0B771A85178A}");
+tocTab[tocTab.length] = new Array("0.3.2.7.15:2", "", "Context Diagram: DirectedObservationAtDistance", "EARoot/EA3/EA2/EA7/EA15/EA6133.htm", "175.png", "761", "0", "", "Logical diagram0","{ACE4E110-99F1-4cce-8910-A089E3EB7E14}");
+tocTab[tocTab.length] = new Array("0.3.2.7.15:3", "", "Context Diagram: Observation", "EARoot/EA3/EA2/EA7/EA15/EA6135.htm", "175.png", "760", "0", "", "Logical diagram0","{9DF31BC5-96E0-4bc6-B76E-9899760498C6}");
+tocTab[tocTab.length] = new Array("0.3.2.7.15:4", "", "Figure D.66 ? Observation", "EARoot/EA3/EA2/EA7/EA15/EA6137.htm", "175.png", "759", "0", "", "Logical diagram0","{80D77FEF-950F-4f61-AAF4-0880231221A1}");
+tocTab[tocTab.length] = new Array("0.3.2.7.15:5", "", "«FeatureType» DirectedObservation", "EARoot/EA3/EA2/EA7/EA15/EA6141.htm", "5.png", "E2434", "0", "", "Class0","{DEBEE91A-E8B3-4d0f-976D-2715D9D655C6}");
+tocTab[tocTab.length] = new Array("0.3.2.7.15:6", "", "«FeatureType» DirectedObservationAtDistance", "EARoot/EA3/EA2/EA7/EA15/EA6142.htm", "5.png", "E2431", "0", "", "Class0","{0EA4F16C-EEE7-43cb-8C43-0DD2A4AE1CFF}");
+tocTab[tocTab.length] = new Array("0.3.2.7.15:7", "", "«FeatureType» Observation", "EARoot/EA3/EA2/EA7/EA15/EA6143.htm", "5.png", "E2433", "0", "", "Class0","{AB6E16F8-0D03-44e8-A50E-A2A08BAB2771}");

@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.3.4.7:1", "", "LaboratoryAnalysis-Specimen package dependencies", "EARoot/EA3/EA4/EA7/EA7585.htm", "176.png", "361", "0", "", "Package diagram0","{7937B082-723C-42d3-BBBB-C1C5E3B063EF}");
+tocTab[tocTab.length] = new Array("0.3.4.7:2", "", "Color code", "EARoot/EA3/EA4/EA7/EA7587.htm", "175.png", "363", "0", "", "Logical diagram0","{5691183F-5C32-488f-89DD-D041F282C12E}");
+tocTab[tocTab.length] = new Array("0.3.4.7:3", "", "SWE Common v1 classes (for information only)", "EARoot/EA3/EA4/EA7/EA7589.htm", "175.png", "362", "0", "", "Logical diagram0","{373DB23C-80CA-457e-A306-3BA88541CB53}");
+tocTab[tocTab.length] = new Array("0.3.4.7.1", "1", "«leaf» LaboratoryAnalysis", "EARoot/EA3/EA4/EA7/EA1/EA7615.htm", "4.png", "", "", "{36A41BDC-2030-4e4f-8C55-9934D7CA8AF2}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.7.2", "1", "«leaf» Geochronology", "EARoot/EA3/EA4/EA7/EA2/EA7639.htm", "4.png", "", "", "{18E00A6C-6213-4caf-A825-FAA3C6109D51}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.7.3", "1", "«leaf» GeologicSpecimen", "EARoot/EA3/EA4/EA7/EA3/EA7661.htm", "4.png", "", "", "{756FB0EB-2C1A-48d2-AE93-5D77405E994B}", "Package");

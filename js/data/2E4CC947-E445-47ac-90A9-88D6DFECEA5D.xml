@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.3.1.5:1", "", "CityObjectGroup", "EARoot/EA3/EA1/EA5/EA3468.htm", "175.png", "2814", "0", "", "Logical diagram0","{890E06A9-6CB9-478a-9298-6AA5AD2BBE5F}");
+tocTab[tocTab.length] = new Array("0.3.1.5:2", "", "CityObjectGroup - ADE Data types", "EARoot/EA3/EA1/EA5/EA3470.htm", "175.png", "2816", "0", "", "Logical diagram0","{6DB2024D-3830-4fcb-8EFB-E30825AE56DE}");
+tocTab[tocTab.length] = new Array("0.3.1.5:3", "", "CityObjectGroup - Code lists", "EARoot/EA3/EA1/EA5/EA3472.htm", "175.png", "2815", "0", "", "Logical diagram0","{3B9A3B7F-A5A0-4a4d-9FEF-6AF3B8D146DC}");
+tocTab[tocTab.length] = new Array("0.3.1.5:4", "", "«dataType» ADEOfCityObjectGroup", "EARoot/EA3/EA1/EA5/EA3475.htm", "5.png", "E17915", "0", "", "Class0","{14C333AF-BADE-47c7-A496-CB76E877C3C6}");
+tocTab[tocTab.length] = new Array("0.3.1.5:5", "", "«featureType» CityObjectGroup", "EARoot/EA3/EA1/EA5/EA3476.htm", "5.png", "E17918", "0", "", "Class0","{C62B6BD6-6687-463a-AA58-BCEBB1C77931}");
+tocTab[tocTab.length] = new Array("0.3.1.5:6", "", "«codeList» CityObjectGroupClassValue", "EARoot/EA3/EA1/EA5/EA3477.htm", "5.png", "E17917", "0", "", "Class0","{5800CBF6-D788-468e-8080-5DB404169808}");
+tocTab[tocTab.length] = new Array("0.3.1.5:7", "", "«codeList» CityObjectGroupFunctionValue", "EARoot/EA3/EA1/EA5/EA3478.htm", "5.png", "E17919", "0", "", "Class0","{EA066115-645D-4a85-BCD4-DC5614FC542A}");
+tocTab[tocTab.length] = new Array("0.3.1.5:8", "", "«codeList» CityObjectGroupUsageValue", "EARoot/EA3/EA1/EA5/EA3479.htm", "5.png", "E17914", "0", "", "Class0","{067244B3-B324-4856-B094-F85F7568786A}");
+tocTab[tocTab.length] = new Array("0.3.1.5:9", "", "«dataType» Role", "EARoot/EA3/EA1/EA5/EA3480.htm", "5.png", "E17916", "0", "", "Class0","{4C841553-A51F-481a-9FFF-5AEA8069AF90}");

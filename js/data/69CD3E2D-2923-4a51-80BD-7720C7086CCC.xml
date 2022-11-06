@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.1.1.5.3.2:1", "", "Noktasal Gozlem Tipleri - Genel", "EARoot/EA1/EA1/EA5/EA3/EA2/EA138.htm", "175.png", "917", "0", "", "Logical diagram0","{076CF2EA-3450-4aaa-A934-55FD71F96274}");
+tocTab[tocTab.length] = new Array("0.1.1.5.3.2:2", "", "NoktasalGozlemKumesi", "EARoot/EA1/EA1/EA5/EA3/EA2/EA140.htm", "175.png", "921", "0", "", "Logical diagram0","{F91D14E3-2887-49e0-A2BA-C482AB426355}");
+tocTab[tocTab.length] = new Array("0.1.1.5.3.2:3", "", "NoktasalGozlem", "EARoot/EA1/EA1/EA5/EA3/EA2/EA142.htm", "175.png", "918", "0", "", "Logical diagram0","{4E855DF7-86E9-4612-9195-5BFDCD7BAC4B}");
+tocTab[tocTab.length] = new Array("0.1.1.5.3.2:4", "", "ZamanSerisiNoktasalGozlem", "EARoot/EA1/EA1/EA5/EA3/EA2/EA144.htm", "175.png", "919", "0", "", "Logical diagram0","{CBC3CC19-8274-4dae-AD2C-3566F1E2C9A0}");
+tocTab[tocTab.length] = new Array("0.1.1.5.3.2:5", "", "CokluNoktasalGozlem", "EARoot/EA1/EA1/EA5/EA3/EA2/EA146.htm", "175.png", "920", "0", "", "Logical diagram0","{89DD00E9-8D01-449c-93A0-53695C898058}");
+tocTab[tocTab.length] = new Array("0.1.1.5.3.2:6", "", "«featureType» NoktasalGozlem", "EARoot/EA1/EA1/EA5/EA3/EA2/EA166.htm", "5.png", "E2828", "0", "", "Class0","{9F9E8AEE-E6F9-4eb1-BBED-1CC6E9223AE2}");
+tocTab[tocTab.length] = new Array("0.1.1.5.3.2:7", "", "«featureType» CokluNoktasalGozlem", "EARoot/EA1/EA1/EA5/EA3/EA2/EA167.htm", "5.png", "E2832", "0", "", "Class0","{C082E40D-5C6E-4cd3-9395-0F8714E6EFEB}");
+tocTab[tocTab.length] = new Array("0.1.1.5.3.2:8", "", "«featureType» ZamanSerisiNoktasalGozlem", "EARoot/EA1/EA1/EA5/EA3/EA2/EA168.htm", "5.png", "E2820", "0", "", "Class0","{5BC1B853-43F3-4db2-9DB0-062CBE0F631D}");
+tocTab[tocTab.length] = new Array("0.1.1.5.3.2:9", "", "«featureType» NoktasalGozlemKumesi", "EARoot/EA1/EA1/EA5/EA3/EA2/EA169.htm", "5.png", "E2821", "0", "", "Class0","{69B66425-7DC6-4862-9FC5-C56CEA7E8A19}");

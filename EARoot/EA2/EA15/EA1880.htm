@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Hidrografya</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Hidrografya", " : "))</script> hi : Public   Package</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">6.12.2018 08:48:29</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">9.07.2020 20:13:36</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">tucbs</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{24640C74-E2DE-4de7-9B30-DFCA34A2908D}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">Tan&#305;m:&lt;br/&gt;Hidrografya veri temas&#305;; göl, akarsu, havza ve bunlar ilgili tüm co&#287;rafi nesneleri kapsamaktad&#305;r. K&#305;y&#305; bölgeleri bu veri temas&#305; kapsam&#305;na girmekte olup bunun yan&#305;nda denizler ise bu tema d&#305;&#351;&#305;nda tutulmu&#351;tur. Hidrografik verilerin birlikte çal&#305;&#351;abilirli&#287;ini ve payla&#351;&#305;m&#305;n&#305; kolayla&#351;t&#305;rmay&#305; amaçlamaktad&#305;r.&lt;br/&gt;&lt;br/&gt;Aç&#305;klama:&lt;br/&gt;Co&#287;rafi olarak tüm k&#305;ta içi yüzey sular&#305; ve statik nesneler bu veri temas&#305;nda yer almaktad&#305;r. Bunun yan&#305;nda k&#305;y&#305; bölgeleri ve yüzey ak&#305;&#351;&#305;, akarsu kollar&#305; gibi nesneleri kapsayan havzalar&#305; da kapsam&#305;ndad&#305;r. Günümüzde hidrografik veriler, farkl&#305; kullan&#305;c&#305; s&#305;n&#305;flar&#305; taraf&#305;ndan farkl&#305; amaçlar do&#287;rultusunda kullan&#305;lmaktad&#305;r. Haritalama i&#351;lemlerinde akarsu, göl, baraj gibi tüm yapay ve do&#287;al hidrografya nesneler kullan&#305;l&#305;rken ula&#351;&#305;m gibi konumsal analizler gerektiren i&#351;lemlerde hidrografik nesnelerin topolojisinden yararlan&#305;labilir. &lt;br/&gt;Ula&#351;&#305;m konusu bu tema içerisinde ele al&#305;nmam&#305;&#351;t&#305;r. Hidrolojik döngüde önemli bir yere sahip olan yer alt&#305; sular&#305; ve bulundu&#287;u ortamlar (Akifer) TUCBS &#8216;nin di&#287;er tematik veri temalar&#305;nda yer almaktad&#305;r.&lt;br/&gt;&lt;br/&gt;</div>
+
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

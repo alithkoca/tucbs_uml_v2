@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.3.2.7.14:1", "", "Context Diagram: GridLength", "EARoot/EA3/EA2/EA7/EA14/EA6125.htm", "175.png", "758", "0", "", "Logical diagram0","{438A94E4-31EE-4a8f-8BA3-91E908439E0F}");
+tocTab[tocTab.length] = new Array("0.3.2.7.14:2", "", "Figure D.59 ? Additional measures", "EARoot/EA3/EA2/EA7/EA14/EA6127.htm", "175.png", "757", "0", "", "Logical diagram0","{8BCD6472-5A44-4826-852F-A1E83BFB356C}");
+tocTab[tocTab.length] = new Array("0.3.2.7.14:3", "", "«type» GridLength", "EARoot/EA3/EA2/EA7/EA14/EA6130.htm", "5.png", "E2428", "0", "", "Class0","{ECBA77DE-2DA1-4ba8-A40D-077CEE1ED61F}");

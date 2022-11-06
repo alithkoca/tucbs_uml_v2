@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.3.2.9.1.1.1:1", "", "Context diagram: GO_Gozlem", "EARoot/EA3/EA2/EA9/EA1/EA1/EA1/EA6887.htm", "175.png", "1318", "0", "", "Logical diagram0","{5C3EBFF2-98DB-49f6-AB00-C00DDAB66593}");
+tocTab[tocTab.length] = new Array("0.3.2.9.1.1.1:2", "", "Context diagram: GO_Islem", "EARoot/EA3/EA2/EA9/EA1/EA1/EA1/EA6889.htm", "175.png", "1319", "0", "", "Logical diagram0","{B0BE83AC-9B1F-4e32-91F2-8F52B81B2C77}");
+tocTab[tocTab.length] = new Array("0.3.2.9.1.1.1:3", "", "Context diagram: IsimlendirilmisDeger", "EARoot/EA3/EA2/EA9/EA1/EA1/EA1/EA6891.htm", "175.png", "1320", "0", "", "Logical diagram0","{66364466-632C-43ce-BE0A-84ECCCBB4FEC}");
+tocTab[tocTab.length] = new Array("0.3.2.9.1.1.1:4", "", "GenelBakis: Gozlem", "EARoot/EA3/EA2/EA9/EA1/EA1/EA1/EA6893.htm", "175.png", "1317", "0", "", "Logical diagram0","{B5736A8B-914A-42d9-8071-48E89FA6F2C5}");
+tocTab[tocTab.length] = new Array("0.3.2.9.1.1.1:5", "", "«FeatureType» GO_Gozlem", "EARoot/EA3/EA2/EA9/EA1/EA1/EA1/EA6896.htm", "5.png", "E3742", "0", "", "Class0","{5AAB9132-0552-4720-9F47-10F49F58E525}");
+tocTab[tocTab.length] = new Array("0.3.2.9.1.1.1:6", "", "«FeatureType» GO_Islem", "EARoot/EA3/EA2/EA9/EA1/EA1/EA1/EA6897.htm", "5.png", "E3743", "0", "", "Class0","{B7CD6679-CB87-4ccf-A956-7B01C9F74445}");
+tocTab[tocTab.length] = new Array("0.3.2.9.1.1.1:7", "", "GozlemBaglami", "EARoot/EA3/EA2/EA9/EA1/EA1/EA1/EA6898.htm", "5.png", "E3744", "0", "", "Class0","{ED7F132E-57E2-4ab3-AC90-80F84212709B}");
+tocTab[tocTab.length] = new Array("0.3.2.9.1.1.1:8", "", "«DataType» IsimlendirilmisDeger", "EARoot/EA3/EA2/EA9/EA1/EA1/EA1/EA6899.htm", "5.png", "E3745", "0", "", "Class0","{EEEB7ECF-E1F6-42de-BB8D-B011464040E0}");

@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.2.27.1:1", "", "TarimTesisleriDetayTipleriVeVeriTipleri", "EARoot/EA2/EA27/EA1/EA2770.htm", "175.png", "3175", "0", "", "Logical diagram0","{24B5F8C3-B4B4-4aa5-BE7E-2DF510065BFA}");
+tocTab[tocTab.length] = new Array("0.2.27.1:2", "", "TarimTesisleriKodListeleri", "EARoot/EA2/EA27/EA1/EA2772.htm", "175.png", "3176", "0", "", "Logical diagram0","{26C53328-9CD8-4a6a-8D55-F44157D2C0D3}");
+tocTab[tocTab.length] = new Array("0.2.27.1:3", "", "«codeList» SuUrunleriTurleriDegeri", "EARoot/EA2/EA27/EA1/EA2775.htm", "5.png", "E20245", "0", "", "Class0","{93359762-5456-4d6e-92E3-23D232FF48B7}");
+tocTab[tocTab.length] = new Array("0.2.27.1:4", "", "«dataType» CiftlikHayvaniTurleri", "EARoot/EA2/EA27/EA1/EA2776.htm", "5.png", "E20247", "0", "", "Class0","{A48C9D6B-9E3C-49b7-AEA9-B41E92290E3B}");
+tocTab[tocTab.length] = new Array("0.2.27.1:5", "", "«featureType» TarimsalIsletme", "EARoot/EA2/EA27/EA1/EA2777.htm", "5.png", "E20246", "0", "", "Class0","{98FE2252-EC43-42a9-AEE9-8825F97F5BF4}");
+tocTab[tocTab.length] = new Array("0.2.27.1:6", "", "«featureType» TarimsalIsletmeAlani<br />", "EARoot/EA2/EA27/EA1/EA2778.htm", "5.png", "E20244", "0", "", "Class0","{4A2031B8-A2F2-4742-B1B3-59AFEEDF44FB}");

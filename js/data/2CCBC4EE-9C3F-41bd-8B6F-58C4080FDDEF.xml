@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.3.4.1.3:1", "", "Context diagram: GeologicEvent", "EARoot/EA3/EA4/EA1/EA3/EA7265.htm", "175.png", "839", "0", "", "Logical diagram0","{62169C15-270F-4060-ABD0-C50F367E518F}");
+tocTab[tocTab.length] = new Array("0.3.4.1.3:2", "", "Summary diagram: Geologic Age", "EARoot/EA3/EA4/EA1/EA3/EA7267.htm", "175.png", "840", "0", "", "Logical diagram0","{F7FACD74-96C5-45ac-8C4A-D92F3579548A}");
+tocTab[tocTab.length] = new Array("0.3.4.1.3:3", "", "«FeatureType» GeologicEvent", "EARoot/EA3/EA4/EA1/EA3/EA7276.htm", "5.png", "E2620", "0", "", "Class0","{3FDA6DF9-AB99-4f3f-A413-F63452FB1AE7}");
+tocTab[tocTab.length] = new Array("0.3.4.1.3:4", "", "«CodeList» EventProcessTerm", "EARoot/EA3/EA4/EA1/EA3/EA7277.htm", "5.png", "E2623", "0", "", "Class0","{7AD61E7A-BC05-465d-B06C-F032AF3DF2D9}");
